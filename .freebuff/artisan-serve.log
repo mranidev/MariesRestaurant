@@ -1,0 +1,1070 @@
+
+   INFO  Server running on [http://127.0.0.1:8080].  
+
+  Press Ctrl+C to stop the server
+
+  2026-08-11 11:25:12 / .......................................... ~ 500.61ms
+  2026-08-11 11:25:17 / ............................................ ~ 0.10ms
+  2026-08-11 11:25:17 /admin ....................................... ~ 0.04ms
+  2026-08-11 11:25:17 /admin/login ............................... ~ 500.57ms
+  2026-08-11 11:26:56 /admin/login ................................. ~ 0.37ms
+  2026-08-11 11:27:03 /admin/login ................................. ~ 0.09ms
+  2026-08-11 11:27:30 /admin/login ................................. ~ 0.08ms
+  2026-08-11 11:27:35 / .......................................... ~ 500.30ms
+  2026-08-11 11:27:46 /_assets/c51ab15492f2435bf410cd289bdba7eb-1786461893.css  ~ 0.08ms
+  2026-08-11 11:27:46 /vendor/acme-purple/css/app.css .............. ~ 0.27ms
+  2026-08-11 11:28:11 / .......................................... ~ 500.29ms
+  2026-08-11 11:28:12 / ............................................ ~ 0.08ms
+  2026-08-11 11:28:12 /_assets/c51ab15492f2435bf410cd289bdba7eb-1786461893.css  ~ 0.04ms
+  2026-08-11 11:28:12 /_assets/bad23e863e96489c86dc19adb6f04bb0-1786461812.js  ~ 0.06ms
+  2026-08-11 11:28:18 / ............................................ ~ 0.08ms
+  2026-08-11 11:28:18 /_assets/c51ab15492f2435bf410cd289bdba7eb-1786461893.css  ~ 0.05ms
+  2026-08-11 11:28:18 /_assets/bad23e863e96489c86dc19adb6f04bb0-1786461812.js  ~ 500.80ms
+  2026-08-11 11:28:18 /favicon.ico ............................... ~ 501.53ms
+  2026-08-11 11:36:45 / ............................................ ~ 0.15ms
+  2026-08-11 11:36:51 / ............................................ ~ 0.42ms
+  2026-08-11 11:36:51 /_assets/c51ab15492f2435bf410cd289bdba7eb-1786462599.css  ~ 0.22ms
+  2026-08-11 11:36:51 /_assets/bad23e863e96489c86dc19adb6f04bb0-1786462599.js  ~ 0.58ms
+  2026-08-11 11:36:51 /livewire/livewire.min.js .................... ~ 1.10ms
+  2026-08-11 11:37:01 / .......................................... ~ 500.68ms
+  2026-08-11 11:37:01 /_assets/c51ab15492f2435bf410cd289bdba7eb-1786462599.css  ~ 0.33ms
+  2026-08-11 11:37:01 /_assets/bad23e863e96489c86dc19adb6f04bb0-1786462599.js  ~ 0.50ms
+  2026-08-11 11:37:01 /livewire/livewire.min.js .................... ~ 1.07ms
+  2026-08-11 11:37:02 /favicon.ico ................................. ~ 0.15ms
+  2026-08-11 11:37:03 /livewire/update ............................. ~ 0.08ms
+  2026-08-11 11:37:04 / .......................................... ~ 500.69ms
+  2026-08-11 11:37:04 /vendor/igniter/css/static.css ............... ~ 0.21ms
+  2026-08-11 11:37:04 /_assets/c51ab15492f2435bf410cd289bdba7eb-1786462599.css  ~ 0.19ms
+  2026-08-11 11:37:04 /_assets/bad23e863e96489c86dc19adb6f04bb0-1786462599.js  ~ 0.16ms
+  2026-08-11 11:37:08 /livewire/update ........................... ~ 500.68ms
+  2026-08-11 11:37:10 / .......................................... ~ 500.83ms
+  2026-08-11 11:37:10 /vendor/igniter/css/static.css ............... ~ 0.30ms
+  2026-08-11 11:37:10 /_assets/c51ab15492f2435bf410cd289bdba7eb-1786462599.css  ~ 0.22ms
+  2026-08-11 11:37:11 /_assets/bad23e863e96489c86dc19adb6f04bb0-1786462599.js  ~ 0.14ms
+  2026-08-11 11:37:11 / ............................................ ~ 0.34ms
+  2026-08-11 11:37:13 /livewire/update ............................. ~ 0.11ms
+  2026-08-11 11:37:17 /vendor/igniter/css/static.css ............... ~ 0.15ms
+  2026-08-11 11:37:11 / ................................................ ~ 5s
+  2026-08-11 11:37:17 /_assets/c51ab15492f2435bf410cd289bdba7eb-1786462599.css  ~ 0.03ms
+  2026-08-11 11:37:17 /_assets/bad23e863e96489c86dc19adb6f04bb0-1786462599.js  ~ 0.03ms
+  2026-08-11 11:37:19 /livewire/update ............................. ~ 0.38ms
+  2026-08-11 11:37:19 /vendor/igniter/css/static.css ............... ~ 0.12ms
+  2026-08-11 11:37:26 / ............................................ ~ 0.13ms
+  2026-08-11 11:37:26 /_assets/c51ab15492f2435bf410cd289bdba7eb-1786462599.css  ~ 0.14ms
+  2026-08-11 11:37:26 /_assets/bad23e863e96489c86dc19adb6f04bb0-1786462599.js  ~ 0.26ms
+  2026-08-11 11:37:28 /livewire/update ........................... ~ 500.44ms
+  2026-08-11 11:37:30 /vendor/igniter/css/static.css ............... ~ 0.42ms
+  2026-08-11 11:37:32 / ............................................ ~ 0.09ms
+  2026-08-11 11:37:32 /_assets/c51ab15492f2435bf410cd289bdba7eb-1786462599.css  ~ 0.07ms
+  2026-08-11 11:37:32 /_assets/bad23e863e96489c86dc19adb6f04bb0-1786462599.js  ~ 0.18ms
+  2026-08-11 11:37:34 / ............................................ ~ 0.11ms
+  2026-08-11 11:37:35 / ............................................ ~ 0.25ms
+  2026-08-11 11:37:36 /_assets/c51ab15492f2435bf410cd289bdba7eb-1786462599.css  ~ 0.17ms
+  2026-08-11 11:37:36 /_assets/bad23e863e96489c86dc19adb6f04bb0-1786462599.js  ~ 0.46ms
+
+   INFO  Environment modified. Restarting server...  
+
+   INFO  Server running on [http://127.0.0.1:8080].  
+
+  Press Ctrl+C to stop the server
+
+  2026-08-11 11:38:01 / .......................................... ~ 500.30ms
+  2026-08-11 11:38:06 / ............................................ ~ 0.08ms
+  2026-08-11 11:38:11 / ............................................ ~ 0.08ms
+  2026-08-11 11:38:11 /_assets/bad23e863e96489c86dc19adb6f04bb0-1786462599.js  ~ 500.64ms
+  2026-08-11 11:38:11 /_assets/c51ab15492f2435bf410cd289bdba7eb-1786462599.css  ~ 0.14ms
+  2026-08-11 11:38:16 /livewire/update ............................. ~ 0.17ms
+  2026-08-11 11:38:17 / ............................................ ~ 0.26ms
+  2026-08-11 11:38:17 /vendor/igniter/css/static.css ............... ~ 0.15ms
+  2026-08-11 11:38:33 /livewire/update ............................. ~ 0.34ms
+  2026-08-11 11:38:36 /vendor/igniter/css/static.css ............... ~ 0.28ms
+  2026-08-11 11:39:28 / ............................................ ~ 0.24ms
+  2026-08-11 11:39:28 /livewire/update ............................. ~ 0.06ms
+  2026-08-11 11:39:54 / ............................................ ~ 0.41ms
+  2026-08-11 11:39:58 / ............................................ ~ 0.09ms
+  2026-08-11 11:39:58 /_assets/c51ab15492f2435bf410cd289bdba7eb-1786462599.css  ~ 500.79ms
+  2026-08-11 11:39:58 /_assets/bad23e863e96489c86dc19adb6f04bb0-1786462599.js  ~ 501.23ms
+  2026-08-11 11:40:20 /livewire/update ............................. ~ 0.26ms
+  2026-08-11 11:40:24 / ............................................ ~ 0.40ms
+  2026-08-11 11:40:24 /vendor/igniter/css/static.css ............... ~ 0.16ms
+  2026-08-11 11:40:24 /_assets/c51ab15492f2435bf410cd289bdba7eb-1786462599.css  ~ 0.24ms
+  2026-08-11 11:40:24 /_assets/bad23e863e96489c86dc19adb6f04bb0-1786462599.js  ~ 0.54ms
+  2026-08-11 11:40:44 /livewire/update ............................. ~ 0.17ms
+  2026-08-11 11:40:46 / ............................................ ~ 0.26ms
+  2026-08-11 11:40:46 /vendor/igniter/css/static.css ............... ~ 0.21ms
+  2026-08-11 11:41:03 / .......................................... ~ 501.02ms
+  2026-08-11 11:41:04 /livewire/update ............................. ~ 0.18ms
+  2026-08-11 11:41:33 /admin/login ................................. ~ 0.10ms
+  2026-08-11 11:41:33 /admin/login ................................. ~ 0.05ms
+  2026-08-11 11:42:12 / ............................................ ~ 0.10ms
+
+   INFO  Environment modified. Restarting server...  
+
+   INFO  Server running on [http://127.0.0.1:8080].  
+
+  Press Ctrl+C to stop the server
+
+  2026-08-11 11:42:18 / .......................................... ~ 500.26ms
+  2026-08-11 11:42:24 / ............................................ ~ 0.07ms
+  2026-08-11 11:42:24 /livewire/update ............................. ~ 0.04ms
+  2026-08-11 11:42:33 / .......................................... ~ 500.57ms
+  2026-08-11 11:42:52 / ............................................ ~ 0.07ms
+  2026-08-11 11:42:53 /_assets/c51ab15492f2435bf410cd289bdba7eb-1786462599.css  ~ 500.23ms
+  2026-08-11 11:42:53 /_assets/bad23e863e96489c86dc19adb6f04bb0-1786462599.js  ~ 0.03ms
+  2026-08-11 11:42:54 /livewire/update ........................... ~ 500.55ms
+  2026-08-11 11:42:55 / .......................................... ~ 500.67ms
+  2026-08-11 11:42:56 /vendor/igniter/css/static.css ............... ~ 0.23ms
+  2026-08-11 11:43:02 / .......................................... ~ 500.41ms
+  2026-08-11 11:43:02 /_assets/c51ab15492f2435bf410cd289bdba7eb-1786462599.css  ~ 0.05ms
+  2026-08-11 11:43:02 /_assets/bad23e863e96489c86dc19adb6f04bb0-1786462599.js  ~ 0.04ms
+  2026-08-11 11:43:18 /debug-session ............................... ~ 0.08ms
+  2026-08-11 11:43:18 /debug-session ............................... ~ 0.05ms
+  2026-08-11 11:43:18 /debug-session ............................... ~ 0.04ms
+  2026-08-11 11:43:18 /debug-session ............................... ~ 0.04ms
+  2026-08-11 11:43:18 /debug-session ............................... ~ 0.04ms
+  2026-08-11 11:43:44 / ............................................ ~ 0.07ms
+  2026-08-11 11:43:44 /debug-session ............................... ~ 0.04ms
+  2026-08-11 11:43:45 /livewire/update ............................. ~ 0.04ms
+  2026-08-11 11:43:58 / ............................................ ~ 0.08ms
+  2026-08-11 11:43:58 /livewire/update ........................... ~ 500.71ms
+  2026-08-11 11:44:10 / ............................................ ~ 0.10ms
+  2026-08-11 11:44:10 /_assets/c51ab15492f2435bf410cd289bdba7eb-1786462599.css  ~ 0.08ms
+  2026-08-11 11:44:10 /_assets/bad23e863e96489c86dc19adb6f04bb0-1786462599.js  ~ 500.70ms
+  2026-08-11 11:44:32 /livewire/update ............................. ~ 0.19ms
+  2026-08-11 11:44:44 /vendor/igniter/css/static.css ............... ~ 0.22ms
+  2026-08-11 11:44:51 /debug-session ............................... ~ 0.35ms
+  2026-08-11 11:45:13 /livewire/update ............................. ~ 0.07ms
+  2026-08-11 11:45:48 / ............................................ ~ 0.38ms
+  2026-08-11 11:45:54 / ............................................ ~ 0.34ms
+  2026-08-11 11:45:54 /_assets/c51ab15492f2435bf410cd289bdba7eb-1786462599.css  ~ 0.18ms
+  2026-08-11 11:45:54 /_assets/bad23e863e96489c86dc19adb6f04bb0-1786462599.js  ~ 0.47ms
+  2026-08-11 11:46:04 /livewire/update ............................. ~ 0.07ms
+  2026-08-11 11:46:36 /vendor/igniter/css/static.css ............... ~ 0.08ms
+  2026-08-11 11:46:36 /livewire/update ............................. ~ 0.05ms
+  2026-08-11 11:46:36 /vendor/igniter/css/static.css ............... ~ 0.19ms
+  2026-08-11 11:46:45 / ............................................ ~ 0.07ms
+  2026-08-11 11:46:45 /livewire/update ............................. ~ 0.03ms
+  2026-08-11 11:47:26 / ............................................ ~ 0.08ms
+  2026-08-11 11:47:26 /livewire/update ........................... ~ 500.93ms
+  2026-08-11 11:47:26 /livewire/update ............................. ~ 0.14ms
+  2026-08-11 11:47:26 /livewire/update ............................. ~ 0.12ms
+  2026-08-11 11:47:26 /livewire/update ............................. ~ 0.29ms
+  2026-08-11 11:47:26 /livewire/update ............................. ~ 0.24ms
+  2026-08-11 11:47:41 / ............................................ ~ 0.08ms
+  2026-08-11 11:47:41 /debug-session ............................... ~ 0.04ms
+  2026-08-11 11:47:41 /livewire/update ............................. ~ 0.04ms
+  2026-08-11 11:48:10 / ............................................ ~ 0.10ms
+  2026-08-11 11:48:10 /livewire/update ........................... ~ 500.28ms
+  2026-08-11 11:48:10 / ............................................ ~ 0.05ms
+  2026-08-11 11:48:11 /livewire/update ............................. ~ 0.06ms
+  2026-08-11 11:48:11 / .......................................... ~ 500.75ms
+  2026-08-11 11:48:12 /livewire/update ............................. ~ 0.25ms
+  2026-08-11 11:48:19 / ............................................ ~ 0.07ms
+  2026-08-11 11:48:19 /livewire/update ............................. ~ 0.03ms
+  2026-08-11 11:48:20 / ............................................ ~ 0.02ms
+  2026-08-11 11:48:20 /livewire/update ............................. ~ 0.03ms
+  2026-08-11 11:48:20 / ............................................ ~ 0.05ms
+  2026-08-11 11:48:20 /livewire/update ............................. ~ 0.03ms
+  2026-08-11 11:48:20 / .......................................... ~ 500.28ms
+  2026-08-11 11:48:20 /livewire/update ............................. ~ 0.05ms
+  2026-08-11 11:48:20 / ............................................ ~ 0.05ms
+  2026-08-11 11:48:20 /livewire/update ............................. ~ 0.06ms
+  2026-08-11 11:48:20 / ............................................ ~ 0.05ms
+  2026-08-11 11:48:20 /livewire/update ............................. ~ 0.03ms
+  2026-08-11 11:48:20 / ............................................ ~ 0.06ms
+  2026-08-11 11:48:20 /livewire/update ............................. ~ 0.09ms
+  2026-08-11 11:48:20 / .......................................... ~ 500.45ms
+  2026-08-11 11:48:20 /livewire/update ............................. ~ 0.09ms
+  2026-08-11 11:48:20 / ............................................ ~ 0.05ms
+  2026-08-11 11:48:21 /livewire/update ............................. ~ 0.05ms
+  2026-08-11 11:48:21 / ............................................ ~ 0.05ms
+  2026-08-11 11:48:21 /livewire/update ............................. ~ 0.05ms
+  2026-08-11 11:48:27 / .......................................... ~ 500.74ms
+  2026-08-11 11:48:27 /_assets/c51ab15492f2435bf410cd289bdba7eb-1786462599.css  ~ 0.24ms
+  2026-08-11 11:48:27 /_assets/bad23e863e96489c86dc19adb6f04bb0-1786462599.js  ~ 0.79ms
+  2026-08-11 11:48:47 /livewire/update ............................. ~ 0.12ms
+  2026-08-11 11:50:12 / .......................................... ~ 500.89ms
+  2026-08-11 11:50:12 /_assets/c51ab15492f2435bf410cd289bdba7eb-1786462599.css  ~ 0.20ms
+  2026-08-11 11:50:12 /_assets/bad23e863e96489c86dc19adb6f04bb0-1786462599.js  ~ 0.45ms
+  2026-08-11 11:50:25 /debug-session ............................... ~ 0.29ms
+  2026-08-11 11:50:49 /livewire/update ............................. ~ 0.40ms
+  2026-08-11 11:50:54 /livewire/update ............................. ~ 0.37ms
+  2026-08-11 11:51:58 / ............................................ ~ 0.17ms
+  2026-08-11 11:51:58 /_assets/c51ab15492f2435bf410cd289bdba7eb-1786462599.css  ~ 0.11ms
+  2026-08-11 11:51:58 /_assets/bad23e863e96489c86dc19adb6f04bb0-1786462599.js  ~ 0.32ms
+  2026-08-11 11:52:06 /livewire/update ............................. ~ 0.25ms
+  2026-08-11 11:52:35 / ............................................ ~ 0.09ms
+  2026-08-11 11:52:37 /debug-session ............................... ~ 0.33ms
+  2026-08-11 11:52:49 /livewire/update ........................... ~ 500.69ms
+  2026-08-11 11:53:37 / ............................................ ~ 0.12ms
+  2026-08-11 11:53:37 /_assets/c51ab15492f2435bf410cd289bdba7eb-1786462599.css  ~ 0.07ms
+  2026-08-11 11:53:37 /_assets/bad23e863e96489c86dc19adb6f04bb0-1786462599.js  ~ 0.17ms
+  2026-08-11 11:53:41 /livewire/update ............................. ~ 0.11ms
+  2026-08-11 11:54:21 / ............................................ ~ 0.08ms
+  2026-08-11 11:54:43 /livewire/update ............................. ~ 0.20ms
+  2026-08-11 11:54:59 / ............................................ ~ 0.09ms
+  2026-08-11 11:55:11 / ............................................ ~ 0.27ms
+  2026-08-11 11:55:11 /livewire/update ............................. ~ 0.13ms
+  2026-08-11 11:55:17 / ............................................ ~ 0.08ms
+  2026-08-11 11:55:18 /livewire/update ............................. ~ 0.37ms
+  2026-08-11 11:55:26 /debug-session ............................... ~ 0.08ms
+  2026-08-11 11:55:27 /livewire/update ............................. ~ 0.29ms
+  2026-08-11 12:12:06 /livewire/update ............................. ~ 0.08ms
+  2026-08-11 12:12:07 /vendor/igniter/css/static.css ............... ~ 0.25ms
+
+   INFO  Environment modified. Restarting server...  
+
+   INFO  Server running on [http://127.0.0.1:8080].  
+
+  Press Ctrl+C to stop the server
+
+  2026-08-11 12:13:10 / .......................................... ~ 500.30ms
+  2026-08-11 12:13:10 /livewire/update ........................... ~ 500.69ms
+  2026-08-11 12:14:39 / ............................................ ~ 0.11ms
+  2026-08-11 12:14:39 /livewire/livewire.js ........................ ~ 0.16ms
+  2026-08-11 12:14:39 /_assets/c51ab15492f2435bf410cd289bdba7eb-1786462599.css  ~ 500.99ms
+  2026-08-11 12:14:39 /_assets/bad23e863e96489c86dc19adb6f04bb0-1786462599.js  ~ 500.86ms
+  2026-08-11 12:15:23 / ............................................ ~ 0.10ms
+  2026-08-11 12:15:23 /livewire/livewire.js ........................ ~ 0.04ms
+  2026-08-11 12:15:23 /_assets/c51ab15492f2435bf410cd289bdba7eb-1786462599.css  ~ 0.06ms
+  2026-08-11 12:15:23 /_assets/bad23e863e96489c86dc19adb6f04bb0-1786462599.js  ~ 0.19ms
+  2026-08-11 12:15:32 / ............................................ ~ 0.12ms
+  2026-08-11 12:15:32 /livewire/update ............................. ~ 0.08ms
+  2026-08-11 12:15:48 /debug-theme ................................. ~ 0.28ms
+  2026-08-11 12:15:59 /debug-theme ................................. ~ 0.08ms
+  2026-08-11 12:16:05 / ............................................ ~ 0.11ms
+  2026-08-11 12:16:05 /livewire/update ............................. ~ 0.06ms
+  2026-08-11 12:16:10 / ............................................ ~ 0.35ms
+  2026-08-11 12:16:30 /livewire/update ............................. ~ 0.39ms
+  2026-08-11 12:16:37 /livewire/update ............................. ~ 0.31ms
+  2026-08-11 12:16:56 / ............................................ ~ 0.07ms
+  2026-08-11 12:16:56 /debug-session ............................... ~ 0.03ms
+  2026-08-11 12:16:56 / ............................................ ~ 0.03ms
+
+   INFO  Environment modified. Restarting server...  
+
+   INFO  Server running on [http://127.0.0.1:8080].  
+
+  Press Ctrl+C to stop the server
+
+  2026-08-11 12:17:22 / .......................................... ~ 500.50ms
+  2026-08-11 12:26:05 / .......................................... ~ 500.56ms
+  2026-08-11 12:26:37 / ............................................ ~ 0.09ms
+
+   INFO  Environment modified. Restarting server...  
+
+   INFO  Server running on [http://127.0.0.1:8080].  
+
+  Press Ctrl+C to stop the server
+
+  2026-08-11 12:28:13 / .......................................... ~ 500.70ms
+  2026-08-11 12:29:18 / ............................................ ~ 0.19ms
+  2026-08-11 12:30:09 /vendor/pasta-cosi/img/menu/caesar.jpg ....... ~ 0.26ms
+  2026-08-11 12:30:09 /vendor/pasta-cosi/img/favicon.ico ........... ~ 0.15ms
+  2026-08-11 12:30:15 /_assets/ec76f0add629a189dca93f505346cbc8-1786465543.css  ~ 0.37ms
+  2026-08-11 12:30:15 /_assets/f53986e05559e5fd94bbc1341bfa912d-1786465543.js  ~ 0.21ms
+  2026-08-11 12:30:20 / ............................................ ~ 0.08ms
+  2026-08-11 12:30:20 /_assets/ec76f0add629a189dca93f505346cbc8-1786465543.css  ~ 0.05ms
+  2026-08-11 12:30:20 /vendor/pasta-cosi/img/logo/logo.jpeg ........ ~ 0.22ms
+  2026-08-11 12:30:20 /vendor/pasta-cosi/img/menu/cleopatra.jfif ... ~ 0.49ms
+  2026-08-11 12:30:20 /vendor/pasta-cosi/img/menu/schweppes-tonic.jpg  ~ 0.49ms
+  2026-08-11 12:30:20 /vendor/pasta-cosi/img/menu/beffy.jpg ........ ~ 0.60ms
+  2026-08-11 12:30:20 /vendor/pasta-cosi/img/menu/nut-salad.jpg .... ~ 0.84ms
+  2026-08-11 12:30:20 /_assets/f53986e05559e5fd94bbc1341bfa912d-1786465543.js  ~ 0.09ms
+  2026-08-11 12:30:20 /vendor/pasta-cosi/img/menu/juicy.jpg ........ ~ 0.28ms
+  2026-08-11 12:30:20 /vendor/pasta-cosi/img/menu/mojito.jpg ....... ~ 0.53ms
+  2026-08-11 12:30:20 /vendor/pasta-cosi/img/events/event-birthday.jpg  ~ 0.59ms
+  2026-08-11 12:30:20 /vendor/pasta-cosi/img/menu/burrata-salad.jpg  ~ 0.93ms
+  2026-08-11 12:30:20 /vendor/pasta-cosi/img/events/event-holiday.jpg  ~ 0.84ms
+  2026-08-11 12:30:20 /vendor/pasta-cosi/img/slide/slide-2.jpg ..... ~ 0.11ms
+  2026-08-11 12:30:20 /vendor/pasta-cosi/img/slide/slide-1.jpg ..... ~ 0.31ms
+  2026-08-11 12:30:20 /vendor/pasta-cosi/img/slide/slide-3.jpg ..... ~ 0.33ms
+  2026-08-11 12:30:20 /vendor/pasta-cosi/img/events/event-baby.jpg . ~ 0.29ms
+  2026-08-11 12:30:20 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 0.08ms
+  2026-08-11 12:30:20 /vendor/pasta-cosi/img/gallery/gallery-2.jpg . ~ 0.31ms
+  2026-08-11 12:30:20 /vendor/pasta-cosi/img/gallery/gallery-3.jpg . ~ 0.25ms
+  2026-08-11 12:30:20 /vendor/pasta-cosi/img/gallery/gallery-4.jpg . ~ 0.37ms
+  2026-08-11 12:30:20 /vendor/pasta-cosi/img/gallery/gallery-5.jpg . ~ 0.47ms
+  2026-08-11 12:30:20 /vendor/pasta-cosi/img/gallery/gallery-6.jpg . ~ 0.58ms
+  2026-08-11 12:30:21 /vendor/pasta-cosi/img/gallery/gallery-7.jpg . ~ 0.08ms
+  2026-08-11 12:30:21 /vendor/pasta-cosi/img/gallery/gallery-8.jpg . ~ 0.22ms
+  2026-08-11 12:30:21 /vendor/pasta-cosi/img/testimonials/bachir.jpg  ~ 0.36ms
+  2026-08-11 12:30:21 /vendor/pasta-cosi/img/testimonials/sywar.jpg  ~ 0.32ms
+  2026-08-11 12:30:21 /vendor/pasta-cosi/img/testimonials/rahma.jpg  ~ 0.41ms
+  2026-08-11 12:30:21 /vendor/pasta-cosi/img/testimonials/oussama.jpg  ~ 0.38ms
+  2026-08-11 12:30:21 /vendor/pasta-cosi/img/testimonials/mehdi.jpg  ~ 0.06ms
+  2026-08-11 12:30:21 /vendor/pasta-cosi/img/events/events-bg.jpg .. ~ 0.19ms
+  2026-08-11 12:30:21 /vendor/pasta-cosi/img/testimonials/testimonials-bg.jpg  ~ 0.18ms
+  2026-08-11 12:30:54 / ............................................ ~ 0.14ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/logo/logo.jpeg ........ ~ 0.05ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/menu/cleopatra.jfif ... ~ 0.22ms
+  2026-08-11 12:30:54 /_assets/ec76f0add629a189dca93f505346cbc8-1786465543.css  ~ 0.05ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/menu/schweppes-tonic.jpg  ~ 0.12ms
+  2026-08-11 12:30:54 /_assets/f53986e05559e5fd94bbc1341bfa912d-1786465543.js  ~ 0.19ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/menu/beffy.jpg ........ ~ 0.36ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/menu/nut-salad.jpg .... ~ 0.60ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/menu/juicy.jpg ........ ~ 0.50ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/menu/mojito.jpg ....... ~ 0.49ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/menu/burrata-salad.jpg  ~ 1.22ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/events/event-birthday.jpg  ~ 0.83ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/events/event-holiday.jpg  ~ 0.05ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/events/event-baby.jpg . ~ 0.09ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 0.23ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/gallery/gallery-2.jpg . ~ 0.35ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/gallery/gallery-3.jpg . ~ 0.49ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/gallery/gallery-4.jpg . ~ 0.07ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/gallery/gallery-5.jpg . ~ 0.23ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/gallery/gallery-6.jpg . ~ 0.23ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/gallery/gallery-7.jpg . ~ 0.37ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/slide/slide-1.jpg ..... ~ 0.35ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/gallery/gallery-8.jpg . ~ 0.28ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/testimonials/bachir.jpg  ~ 0.23ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/testimonials/sywar.jpg  ~ 0.33ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/testimonials/rahma.jpg  ~ 0.29ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/testimonials/oussama.jpg  ~ 0.06ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/testimonials/mehdi.jpg  ~ 0.17ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/events/events-bg.jpg .. ~ 0.05ms
+  2026-08-11 12:30:54 /vendor/pasta-cosi/img/testimonials/testimonials-bg.jpg  ~ 0.05ms
+  2026-08-11 12:30:59 /vendor/pasta-cosi/img/slide/slide-2.jpg ..... ~ 0.32ms
+  2026-08-11 12:31:04 /vendor/pasta-cosi/img/slide/slide-3.jpg ..... ~ 0.45ms
+  2026-08-11 12:31:19 /livewire/update ............................. ~ 0.13ms
+  2026-08-11 12:31:27 /livewire/update ............................. ~ 0.08ms
+  2026-08-11 12:31:48 /livewire/update ........................... ~ 500.27ms
+  2026-08-11 12:31:58 /livewire/update ............................. ~ 0.09ms
+  2026-08-11 12:32:22 / ............................................ ~ 0.09ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/logo/logo.jpeg ........ ~ 0.05ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/menu/cleopatra.jfif ... ~ 0.18ms
+  2026-08-11 12:32:22 /_assets/ec76f0add629a189dca93f505346cbc8-1786465543.css  ~ 0.03ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/menu/schweppes-tonic.jpg  ~ 0.07ms
+  2026-08-11 12:32:22 /_assets/f53986e05559e5fd94bbc1341bfa912d-1786465543.js  ~ 0.11ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/menu/beffy.jpg ........ ~ 0.23ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/menu/nut-salad.jpg .... ~ 0.43ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/menu/juicy.jpg ........ ~ 0.49ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/menu/mojito.jpg ....... ~ 0.50ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/menu/burrata-salad.jpg  ~ 0.93ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/events/event-birthday.jpg  ~ 0.70ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/slide/slide-1.jpg ..... ~ 0.53ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/events/event-holiday.jpg  ~ 0.05ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/events/event-baby.jpg . ~ 0.12ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 0.19ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/gallery/gallery-2.jpg . ~ 0.18ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/gallery/gallery-3.jpg . ~ 0.21ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/gallery/gallery-4.jpg . ~ 0.17ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/gallery/gallery-5.jpg . ~ 0.06ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/gallery/gallery-6.jpg . ~ 0.12ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/gallery/gallery-7.jpg . ~ 0.20ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/gallery/gallery-8.jpg . ~ 0.26ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/testimonials/bachir.jpg  ~ 0.19ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/testimonials/sywar.jpg  ~ 0.14ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/testimonials/rahma.jpg  ~ 0.20ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/testimonials/oussama.jpg  ~ 0.10ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/testimonials/mehdi.jpg  ~ 0.18ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/events/events-bg.jpg .. ~ 0.23ms
+  2026-08-11 12:32:22 /vendor/pasta-cosi/img/testimonials/testimonials-bg.jpg  ~ 0.29ms
+  2026-08-11 12:32:27 /vendor/pasta-cosi/img/slide/slide-2.jpg ..... ~ 0.34ms
+  2026-08-11 12:32:32 /vendor/pasta-cosi/img/slide/slide-3.jpg ..... ~ 0.32ms
+  2026-08-11 12:32:40 /livewire/update ............................. ~ 0.34ms
+  2026-08-11 12:32:41 /livewire/update ............................. ~ 0.15ms
+
+   INFO  Environment modified. Restarting server...  
+
+   INFO  Server running on [http://127.0.0.1:8080].  
+
+  Press Ctrl+C to stop the server
+
+  2026-08-11 12:32:54 / .......................................... ~ 500.36ms
+  2026-08-11 12:45:14 / .......................................... ~ 500.25ms
+  2026-08-11 12:45:14 /_assets/ec76f0add629a189dca93f505346cbc8-1786465543.css  ~ 0.05ms
+  2026-08-11 12:45:14 /vendor/pasta-cosi/img/logo/logo.jpeg ........ ~ 0.16ms
+  2026-08-11 12:45:14 /vendor/pasta-cosi/img/menu/cleopatra.jfif ... ~ 0.26ms
+  2026-08-11 12:45:14 /vendor/pasta-cosi/img/menu/schweppes-tonic.jpg  ~ 0.26ms
+  2026-08-11 12:45:14 /vendor/pasta-cosi/img/menu/beffy.jpg ........ ~ 0.30ms
+  2026-08-11 12:45:14 /vendor/pasta-cosi/img/menu/nut-salad.jpg .... ~ 0.41ms
+  2026-08-11 12:45:14 /_assets/f53986e05559e5fd94bbc1341bfa912d-1786465543.js  ~ 0.48ms
+  2026-08-11 12:45:15 /vendor/pasta-cosi/img/menu/juicy.jpg ........ ~ 0.06ms
+  2026-08-11 12:45:15 /vendor/pasta-cosi/img/menu/burrata-salad.jpg  ~ 0.17ms
+  2026-08-11 12:45:15 /vendor/pasta-cosi/img/menu/mojito.jpg ....... ~ 0.21ms
+  2026-08-11 12:45:15 /vendor/pasta-cosi/img/events/event-birthday.jpg  ~ 0.34ms
+  2026-08-11 12:45:15 /vendor/pasta-cosi/img/events/event-holiday.jpg  ~ 0.47ms
+  2026-08-11 12:45:15 /vendor/pasta-cosi/img/events/event-baby.jpg . ~ 0.09ms
+  2026-08-11 12:45:15 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 0.19ms
+  2026-08-11 12:45:15 /vendor/pasta-cosi/img/gallery/gallery-2.jpg . ~ 0.25ms
+  2026-08-11 12:45:15 /vendor/pasta-cosi/img/gallery/gallery-3.jpg . ~ 0.30ms
+  2026-08-11 12:45:15 /vendor/pasta-cosi/img/gallery/gallery-4.jpg . ~ 0.04ms
+  2026-08-11 12:45:15 /vendor/pasta-cosi/img/gallery/gallery-5.jpg . ~ 0.10ms
+  2026-08-11 12:45:15 /vendor/pasta-cosi/img/gallery/gallery-6.jpg . ~ 0.04ms
+  2026-08-11 12:45:15 /vendor/pasta-cosi/img/gallery/gallery-7.jpg . ~ 0.12ms
+  2026-08-11 12:45:15 /vendor/pasta-cosi/img/gallery/gallery-8.jpg . ~ 0.20ms
+  2026-08-11 12:45:15 /vendor/pasta-cosi/img/testimonials/bachir.jpg  ~ 0.18ms
+  2026-08-11 12:45:15 /vendor/pasta-cosi/img/testimonials/sywar.jpg  ~ 0.24ms
+  2026-08-11 12:45:15 /vendor/pasta-cosi/img/testimonials/rahma.jpg  ~ 0.19ms
+  2026-08-11 12:45:15 /vendor/pasta-cosi/img/testimonials/oussama.jpg  ~ 0.34ms
+  2026-08-11 12:45:15 /vendor/pasta-cosi/img/testimonials/mehdi.jpg  ~ 0.17ms
+  2026-08-11 12:45:15 /vendor/pasta-cosi/img/slide/slide-1.jpg ..... ~ 0.05ms
+  2026-08-11 12:45:15 /vendor/pasta-cosi/img/events/events-bg.jpg .. ~ 0.05ms
+  2026-08-11 12:45:15 /vendor/pasta-cosi/img/testimonials/testimonials-bg.jpg  ~ 0.06ms
+  2026-08-11 12:45:21 /vendor/pasta-cosi/img/slide/slide-2.jpg ..... ~ 0.13ms
+  2026-08-11 12:45:22 /.well-known/appspecific/com.chrome.devtools.json  ~ 500.38ms
+  2026-08-11 12:45:22 /livewire/livewire.min.js.map ................ ~ 0.05ms
+  2026-08-11 12:45:26 /vendor/pasta-cosi/img/slide/slide-3.jpg ..... ~ 0.33ms
+  2026-08-11 12:47:15 / .......................................... ~ 500.42ms
+  2026-08-11 12:47:15 /vendor/pasta-cosi/img/logo/logo.jpeg ........ ~ 0.05ms
+  2026-08-11 12:47:15 /vendor/pasta-cosi/img/menu/cleopatra.jfif ... ~ 0.14ms
+  2026-08-11 12:47:15 /_assets/ec76f0add629a189dca93f505346cbc8-1786465543.css  ~ 0.04ms
+  2026-08-11 12:47:15 /vendor/pasta-cosi/img/menu/schweppes-tonic.jpg  ~ 0.13ms
+  2026-08-11 12:47:16 /_assets/f53986e05559e5fd94bbc1341bfa912d-1786465543.js  ~ 0.11ms
+  2026-08-11 12:47:16 /vendor/pasta-cosi/img/menu/beffy.jpg ........ ~ 0.21ms
+  2026-08-11 12:47:16 /vendor/pasta-cosi/img/menu/nut-salad.jpg .... ~ 0.33ms
+  2026-08-11 12:47:16 /vendor/pasta-cosi/img/menu/juicy.jpg ........ ~ 0.24ms
+  2026-08-11 12:47:16 /vendor/pasta-cosi/img/menu/mojito.jpg ....... ~ 0.22ms
+  2026-08-11 12:47:16 /vendor/pasta-cosi/img/menu/burrata-salad.jpg  ~ 0.59ms
+  2026-08-11 12:47:16 /vendor/pasta-cosi/img/events/event-birthday.jpg  ~ 0.37ms
+  2026-08-11 12:47:16 /vendor/pasta-cosi/img/events/event-holiday.jpg  ~ 0.04ms
+  2026-08-11 12:47:16 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 0.06ms
+  2026-08-11 12:47:16 /vendor/pasta-cosi/img/events/event-baby.jpg . ~ 0.20ms
+  2026-08-11 12:47:16 /vendor/pasta-cosi/img/gallery/gallery-2.jpg . ~ 0.18ms
+  2026-08-11 12:47:16 /vendor/pasta-cosi/img/gallery/gallery-3.jpg . ~ 0.24ms
+  2026-08-11 12:47:16 /vendor/pasta-cosi/img/gallery/gallery-4.jpg . ~ 0.05ms
+  2026-08-11 12:47:16 /vendor/pasta-cosi/img/gallery/gallery-5.jpg . ~ 0.11ms
+  2026-08-11 12:47:16 /vendor/pasta-cosi/img/gallery/gallery-6.jpg . ~ 0.17ms
+  2026-08-11 12:47:16 /vendor/pasta-cosi/img/gallery/gallery-7.jpg . ~ 0.22ms
+  2026-08-11 12:47:16 /vendor/pasta-cosi/img/gallery/gallery-8.jpg . ~ 0.03ms
+  2026-08-11 12:47:16 /vendor/pasta-cosi/img/testimonials/bachir.jpg  ~ 0.04ms
+  2026-08-11 12:47:16 /vendor/pasta-cosi/img/testimonials/sywar.jpg  ~ 0.11ms
+  2026-08-11 12:47:16 /vendor/pasta-cosi/img/testimonials/rahma.jpg  ~ 0.16ms
+  2026-08-11 12:47:16 /vendor/pasta-cosi/img/testimonials/oussama.jpg  ~ 0.14ms
+  2026-08-11 12:47:16 /vendor/pasta-cosi/img/testimonials/mehdi.jpg  ~ 0.04ms
+  2026-08-11 12:47:16 /vendor/pasta-cosi/img/slide/slide-1.jpg ..... ~ 0.09ms
+  2026-08-11 12:47:16 /vendor/pasta-cosi/img/events/events-bg.jpg .. ~ 0.23ms
+  2026-08-11 12:47:16 /vendor/pasta-cosi/img/testimonials/testimonials-bg.jpg  ~ 0.19ms
+  2026-08-11 12:47:24 /vendor/pasta-cosi/img/slide/slide-2.jpg ..... ~ 0.23ms
+  2026-08-11 12:48:51 / ............................................ ~ 0.08ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/logo/logo.jpeg ........ ~ 0.04ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/menu/cleopatra.jfif ... ~ 0.15ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/menu/schweppes-tonic.jpg  ~ 0.06ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/menu/beffy.jpg ........ ~ 0.11ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/menu/nut-salad.jpg .... ~ 0.21ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/menu/burrata-salad.jpg  ~ 0.30ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/menu/juicy.jpg ........ ~ 0.04ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/menu/mojito.jpg ....... ~ 0.14ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/events/event-birthday.jpg  ~ 0.23ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/events/event-holiday.jpg  ~ 0.04ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/events/event-baby.jpg . ~ 0.10ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 0.15ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/gallery/gallery-2.jpg . ~ 0.03ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/gallery/gallery-3.jpg . ~ 0.04ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/gallery/gallery-4.jpg . ~ 0.11ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/gallery/gallery-5.jpg . ~ 0.10ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/gallery/gallery-6.jpg . ~ 0.04ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/gallery/gallery-7.jpg . ~ 0.11ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/gallery/gallery-8.jpg . ~ 0.17ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/testimonials/bachir.jpg  ~ 0.16ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/testimonials/sywar.jpg  ~ 0.04ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/testimonials/rahma.jpg  ~ 0.10ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/testimonials/oussama.jpg  ~ 0.15ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/testimonials/mehdi.jpg  ~ 0.03ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/slide/slide-1.jpg ..... ~ 0.03ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/events/events-bg.jpg .. ~ 0.03ms
+  2026-08-11 12:48:52 /vendor/pasta-cosi/img/testimonials/testimonials-bg.jpg  ~ 0.03ms
+  2026-08-11 12:49:44 / ........................................... ~ 11.04ms
+  2026-08-11 12:50:03 / ............................................ ~ 0.29ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/logo/logo.jpeg ........ ~ 0.06ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/menu/cleopatra.jfif ... ~ 0.19ms
+  2026-08-11 12:50:03 /_assets/ec76f0add629a189dca93f505346cbc8-1786465543.css  ~ 0.03ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/menu/schweppes-tonic.jpg  ~ 0.08ms
+  2026-08-11 12:50:03 /_assets/f53986e05559e5fd94bbc1341bfa912d-1786465543.js  ~ 0.19ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/menu/beffy.jpg ........ ~ 0.34ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/menu/nut-salad.jpg .... ~ 0.62ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/menu/juicy.jpg ........ ~ 0.46ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/menu/mojito.jpg ....... ~ 0.31ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/menu/burrata-salad.jpg  ~ 0.94ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/events/event-birthday.jpg  ~ 0.50ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/slide/slide-1.jpg ..... ~ 0.49ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/events/event-holiday.jpg  ~ 0.12ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/events/event-baby.jpg . ~ 0.24ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 0.36ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/gallery/gallery-2.jpg . ~ 0.49ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/gallery/gallery-3.jpg . ~ 0.09ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/gallery/gallery-4.jpg . ~ 0.33ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/gallery/gallery-5.jpg . ~ 0.49ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/gallery/gallery-6.jpg . ~ 0.21ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/gallery/gallery-7.jpg . ~ 0.23ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/gallery/gallery-8.jpg . ~ 0.38ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/testimonials/bachir.jpg  ~ 0.54ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/testimonials/sywar.jpg  ~ 0.51ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/testimonials/rahma.jpg  ~ 0.41ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/testimonials/oussama.jpg  ~ 0.25ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/testimonials/mehdi.jpg  ~ 0.35ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/events/events-bg.jpg .. ~ 0.45ms
+  2026-08-11 12:50:03 /vendor/pasta-cosi/img/testimonials/testimonials-bg.jpg  ~ 0.44ms
+  2026-08-11 12:50:08 /vendor/pasta-cosi/img/slide/slide-2.jpg ..... ~ 0.16ms
+  2026-08-11 12:50:25 /vendor/pasta-cosi/img/slide/slide-3.jpg ..... ~ 0.12ms
+  2026-08-11 12:50:29 / ............................................ ~ 0.23ms
+  2026-08-11 12:50:29 /vendor/pasta-cosi/img/logo/logo.jpeg ........ ~ 0.17ms
+  2026-08-11 12:50:29 /vendor/pasta-cosi/img/menu/cleopatra.jfif ... ~ 0.77ms
+  2026-08-11 12:50:29 /_assets/ec76f0add629a189dca93f505346cbc8-1786465543.css  ~ 500.31ms
+  2026-08-11 12:50:29 /vendor/pasta-cosi/img/menu/schweppes-tonic.jpg  ~ 0.12ms
+  2026-08-11 12:50:29 /_assets/f53986e05559e5fd94bbc1341bfa912d-1786465543.js  ~ 0.15ms
+  2026-08-11 12:50:29 /vendor/pasta-cosi/img/menu/beffy.jpg ........ ~ 0.26ms
+  2026-08-11 12:50:29 /vendor/pasta-cosi/img/menu/nut-salad.jpg .... ~ 0.40ms
+  2026-08-11 12:50:30 /vendor/pasta-cosi/img/menu/juicy.jpg ........ ~ 0.28ms
+  2026-08-11 12:50:30 /vendor/pasta-cosi/img/menu/mojito.jpg ....... ~ 0.25ms
+  2026-08-11 12:50:29 /vendor/pasta-cosi/img/menu/burrata-salad.jpg  ~ 0.73ms
+  2026-08-11 12:50:30 /vendor/pasta-cosi/img/events/event-birthday.jpg  ~ 0.55ms
+  2026-08-11 12:50:30 /vendor/pasta-cosi/img/events/event-holiday.jpg  ~ 0.04ms
+  2026-08-11 12:50:30 /vendor/pasta-cosi/img/events/event-baby.jpg . ~ 0.13ms
+  2026-08-11 12:50:30 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 0.12ms
+  2026-08-11 12:50:30 /vendor/pasta-cosi/img/gallery/gallery-2.jpg . ~ 0.19ms
+  2026-08-11 12:50:30 /vendor/pasta-cosi/img/gallery/gallery-3.jpg . ~ 0.04ms
+  2026-08-11 12:50:30 /vendor/pasta-cosi/img/gallery/gallery-4.jpg . ~ 0.12ms
+  2026-08-11 12:50:30 /vendor/pasta-cosi/img/gallery/gallery-5.jpg . ~ 0.13ms
+  2026-08-11 12:50:30 /vendor/pasta-cosi/img/gallery/gallery-6.jpg . ~ 0.11ms
+  2026-08-11 12:50:30 /vendor/pasta-cosi/img/gallery/gallery-7.jpg . ~ 0.23ms
+  2026-08-11 12:50:30 /vendor/pasta-cosi/img/gallery/gallery-8.jpg . ~ 0.14ms
+  2026-08-11 12:50:30 /vendor/pasta-cosi/img/testimonials/bachir.jpg  ~ 0.32ms
+  2026-08-11 12:50:30 /vendor/pasta-cosi/img/testimonials/sywar.jpg  ~ 0.46ms
+  2026-08-11 12:50:30 /vendor/pasta-cosi/img/testimonials/rahma.jpg  ~ 0.58ms
+  2026-08-11 12:50:30 /vendor/pasta-cosi/img/slide/slide-1.jpg ..... ~ 0.12ms
+  2026-08-11 12:50:30 /vendor/pasta-cosi/img/testimonials/oussama.jpg  ~ 0.28ms
+  2026-08-11 12:50:30 /vendor/pasta-cosi/img/testimonials/mehdi.jpg  ~ 0.41ms
+  2026-08-11 12:50:30 /vendor/pasta-cosi/img/events/events-bg.jpg .. ~ 0.55ms
+  2026-08-11 12:50:30 /vendor/pasta-cosi/img/testimonials/testimonials-bg.jpg  ~ 0.38ms
+  2026-08-11 12:50:34 /vendor/pasta-cosi/video/about.mp4 ........... ~ 0.12ms
+  2026-08-11 12:50:35 /vendor/pasta-cosi/img/slide/slide-2.jpg ..... ~ 0.09ms
+  2026-08-11 12:50:38 /livewire/update ............................. ~ 0.14ms
+  2026-08-11 12:50:39 /livewire/update ........................... ~ 500.28ms
+  2026-08-11 12:50:39 /livewire/update ............................. ~ 0.14ms
+  2026-08-11 12:50:40 /livewire/update ............................. ~ 0.15ms
+  2026-08-11 12:50:40 /vendor/pasta-cosi/img/slide/slide-3.jpg ..... ~ 0.11ms
+  2026-08-11 12:50:43 /livewire/update ............................. ~ 0.15ms
+  2026-08-11 12:50:44 /livewire/update ............................. ~ 0.15ms
+  2026-08-11 12:51:06 / ............................................ ~ 0.09ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/logo/logo.jpeg ........ ~ 0.07ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/menu/cleopatra.jfif ... ~ 0.26ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/menu/schweppes-tonic.jpg  ~ 0.08ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/menu/beffy.jpg ........ ~ 0.22ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/menu/nut-salad.jpg .... ~ 0.06ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/menu/juicy.jpg ........ ~ 0.11ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/menu/mojito.jpg ....... ~ 0.39ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/menu/burrata-salad.jpg  ~ 0.68ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/events/event-birthday.jpg  ~ 0.79ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/events/event-holiday.jpg  ~ 0.09ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/events/event-baby.jpg . ~ 0.23ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 0.40ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/gallery/gallery-2.jpg . ~ 0.23ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/gallery/gallery-3.jpg . ~ 0.11ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/gallery/gallery-4.jpg . ~ 0.29ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/gallery/gallery-5.jpg . ~ 0.45ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/gallery/gallery-6.jpg . ~ 0.41ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/gallery/gallery-7.jpg . ~ 0.09ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/gallery/gallery-8.jpg . ~ 0.26ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/testimonials/bachir.jpg  ~ 0.45ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/testimonials/sywar.jpg  ~ 0.26ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/testimonials/rahma.jpg  ~ 0.37ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/testimonials/oussama.jpg  ~ 0.41ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/testimonials/mehdi.jpg  ~ 0.31ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/slide/slide-1.jpg ..... ~ 0.51ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/events/events-bg.jpg .. ~ 0.71ms
+  2026-08-11 12:51:06 /vendor/pasta-cosi/img/testimonials/testimonials-bg.jpg  ~ 0.46ms
+  2026-08-11 12:51:11 /vendor/pasta-cosi/img/slide/slide-2.jpg ..... ~ 0.87ms
+  2026-08-11 12:51:12 / .......................................... ~ 500.40ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/logo/logo.jpeg ........ ~ 0.10ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/menu/cleopatra.jfif ... ~ 0.47ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/menu/schweppes-tonic.jpg  ~ 0.11ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/menu/beffy.jpg ........ ~ 0.27ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/menu/nut-salad.jpg .... ~ 0.17ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/menu/juicy.jpg ........ ~ 0.39ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/menu/burrata-salad.jpg  ~ 0.71ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/menu/mojito.jpg ....... ~ 0.82ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/events/event-birthday.jpg  ~ 0.98ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/events/event-holiday.jpg  ~ 1.08ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/events/event-baby.jpg . ~ 0.15ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 0.31ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/gallery/gallery-2.jpg . ~ 0.38ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/gallery/gallery-3.jpg . ~ 0.05ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/gallery/gallery-4.jpg . ~ 0.14ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/gallery/gallery-5.jpg . ~ 0.21ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/gallery/gallery-6.jpg . ~ 0.22ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/gallery/gallery-7.jpg . ~ 0.12ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/gallery/gallery-8.jpg . ~ 0.21ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/testimonials/bachir.jpg  ~ 0.16ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/testimonials/sywar.jpg  ~ 0.18ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/testimonials/rahma.jpg  ~ 0.32ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/slide/slide-1.jpg ..... ~ 0.30ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/testimonials/oussama.jpg  ~ 0.07ms
+  2026-08-11 12:51:12 /vendor/pasta-cosi/img/testimonials/mehdi.jpg  ~ 0.19ms
+  2026-08-11 12:51:16 /vendor/pasta-cosi/img/slide/slide-3.jpg ..... ~ 0.11ms
+  2026-08-11 12:51:33 / .......................................... ~ 500.41ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/logo/logo.jpeg ........ ~ 0.06ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/menu/cleopatra.jfif ... ~ 0.29ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/menu/schweppes-tonic.jpg  ~ 0.14ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/menu/beffy.jpg ........ ~ 0.27ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/menu/nut-salad.jpg .... ~ 0.07ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/menu/juicy.jpg ........ ~ 0.10ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/menu/mojito.jpg ....... ~ 0.28ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/events/event-birthday.jpg  ~ 0.51ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/menu/burrata-salad.jpg  ~ 0.71ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/events/event-holiday.jpg  ~ 0.12ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/events/event-baby.jpg . ~ 0.25ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 0.40ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/gallery/gallery-2.jpg . ~ 0.07ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/gallery/gallery-3.jpg . ~ 0.24ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/gallery/gallery-4.jpg . ~ 0.22ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/gallery/gallery-5.jpg . ~ 0.12ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/gallery/gallery-6.jpg . ~ 0.28ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/gallery/gallery-7.jpg . ~ 0.42ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/gallery/gallery-8.jpg . ~ 0.57ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/testimonials/bachir.jpg  ~ 0.76ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/testimonials/sywar.jpg  ~ 0.24ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/testimonials/rahma.jpg  ~ 0.24ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/testimonials/oussama.jpg  ~ 0.41ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/testimonials/mehdi.jpg  ~ 0.40ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/slide/slide-1.jpg ..... ~ 0.20ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/events/events-bg.jpg .. ~ 0.06ms
+  2026-08-11 12:51:33 /vendor/pasta-cosi/img/testimonials/testimonials-bg.jpg  ~ 0.06ms
+  2026-08-11 12:51:38 /vendor/pasta-cosi/img/slide/slide-2.jpg ..... ~ 0.41ms
+  2026-08-11 12:51:43 /vendor/pasta-cosi/img/slide/slide-3.jpg ..... ~ 0.10ms
+  2026-08-11 12:51:51 /_assets/ec76f0add629a189dca93f505346cbc8-1786465543.css  ~ 500.63ms
+  2026-08-11 12:52:11 /livewire/update ........................... ~ 500.22ms
+  2026-08-11 12:52:12 /livewire/update ............................. ~ 0.25ms
+  2026-08-11 12:52:13 /livewire/update ............................. ~ 0.17ms
+  2026-08-11 12:52:14 /livewire/update ........................... ~ 500.24ms
+  2026-08-11 12:52:18 / ............................................ ~ 0.10ms
+  2026-08-11 12:52:18 /_assets/ec76f0add629a189dca93f505346cbc8-1786467128.css  ~ 0.10ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/logo/logo.jpeg ........ ~ 0.37ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/menu/cleopatra.jfif ... ~ 0.69ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/menu/schweppes-tonic.jpg  ~ 0.72ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/menu/beffy.jpg ........ ~ 0.85ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/menu/nut-salad.jpg .... ~ 1.12ms
+  2026-08-11 12:52:18 /_assets/f53986e05559e5fd94bbc1341bfa912d-1786467128.js  ~ 500.69ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/menu/juicy.jpg ........ ~ 0.25ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/menu/burrata-salad.jpg  ~ 0.80ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/menu/mojito.jpg ....... ~ 1.07ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/events/event-birthday.jpg  ~ 1.69ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/events/event-holiday.jpg  ~ 2.11ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/slide/slide-1.jpg ..... ~ 0.12ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/events/event-baby.jpg . ~ 0.42ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 1.11ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/gallery/gallery-2.jpg . ~ 1.65ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/gallery/gallery-3.jpg . ~ 0.21ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/gallery/gallery-4.jpg . ~ 0.48ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/gallery/gallery-5.jpg . ~ 0.90ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/gallery/gallery-6.jpg . ~ 0.85ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/gallery/gallery-7.jpg . ~ 0.72ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/gallery/gallery-8.jpg . ~ 0.92ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/testimonials/bachir.jpg  ~ 0.68ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/testimonials/sywar.jpg  ~ 1.13ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/testimonials/rahma.jpg  ~ 1.29ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/testimonials/oussama.jpg  ~ 0.87ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/testimonials/mehdi.jpg  ~ 0.61ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/events/events-bg.jpg .. ~ 0.70ms
+  2026-08-11 12:52:18 /vendor/pasta-cosi/img/testimonials/testimonials-bg.jpg  ~ 0.55ms
+  2026-08-11 12:52:32 /vendor/pasta-cosi/img/slide/slide-2.jpg ..... ~ 0.49ms
+  2026-08-11 12:52:37 /vendor/pasta-cosi/img/slide/slide-3.jpg ..... ~ 0.32ms
+  2026-08-11 12:52:40 /_assets/ec76f0add629a189dca93f505346cbc8-1786467128.css  ~ 500.26ms
+  2026-08-11 12:52:43 /_assets/ec76f0add629a189dca93f505346cbc8-1786467128.css  ~ 0.08ms
+  2026-08-11 12:52:45 / ............................................ ~ 0.13ms
+  2026-08-11 12:52:45 /_assets/ec76f0add629a189dca93f505346cbc8-1786467128.css  ~ 500.35ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/logo/logo.jpeg ...... ~ 500.63ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/menu/cleopatra.jfif ... ~ 0.38ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/menu/schweppes-tonic.jpg  ~ 0.58ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/menu/beffy.jpg ........ ~ 0.70ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/menu/nut-salad.jpg .... ~ 0.95ms
+  2026-08-11 12:52:45 /_assets/f53986e05559e5fd94bbc1341bfa912d-1786467128.js  ~ 0.11ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/menu/juicy.jpg ........ ~ 0.28ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/menu/mojito.jpg ....... ~ 0.54ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/events/event-birthday.jpg  ~ 0.63ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/menu/burrata-salad.jpg  ~ 0.98ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/events/event-holiday.jpg  ~ 0.89ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/events/event-baby.jpg . ~ 0.09ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 0.25ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/gallery/gallery-2.jpg . ~ 0.42ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/gallery/gallery-3.jpg . ~ 0.26ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/gallery/gallery-4.jpg . ~ 0.23ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/gallery/gallery-5.jpg . ~ 0.08ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/gallery/gallery-6.jpg . ~ 0.26ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/gallery/gallery-7.jpg . ~ 0.25ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/gallery/gallery-8.jpg . ~ 0.43ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/testimonials/bachir.jpg  ~ 0.26ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/testimonials/sywar.jpg  ~ 0.23ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/testimonials/rahma.jpg  ~ 0.23ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/testimonials/oussama.jpg  ~ 0.27ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/testimonials/mehdi.jpg  ~ 0.24ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/slide/slide-1.jpg ..... ~ 0.38ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/events/events-bg.jpg .. ~ 0.58ms
+  2026-08-11 12:52:45 /vendor/pasta-cosi/img/testimonials/testimonials-bg.jpg  ~ 0.06ms
+  2026-08-11 12:52:46 /_assets/ec76f0add629a189dca93f505346cbc8-1786467128.css  ~ 500.30ms
+  2026-08-11 12:52:48 /.well-known/appspecific/com.chrome.devtools.json  ~ 500.45ms
+  2026-08-11 12:52:49 /_assets/ec76f0add629a189dca93f505346cbc8-1786467128.css  ~ 0.09ms
+  2026-08-11 12:52:50 /vendor/pasta-cosi/img/slide/slide-2.jpg ..... ~ 0.12ms
+  2026-08-11 12:52:53 /_assets/ec76f0add629a189dca93f505346cbc8-1786467128.css  ~ 0.15ms
+  2026-08-11 12:52:55 /vendor/pasta-cosi/img/slide/slide-3.jpg ..... ~ 0.19ms
+  2026-08-11 12:52:57 /_assets/ec76f0add629a189dca93f505346cbc8-1786467128.css  ~ 500.31ms
+  2026-08-11 12:53:01 /_assets/ec76f0add629a189dca93f505346cbc8-1786467128.css  ~ 500.34ms
+  2026-08-11 12:53:04 / ............................................ ~ 0.11ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/logo/logo.jpeg ........ ~ 0.11ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/menu/cleopatra.jfif ... ~ 0.40ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/menu/schweppes-tonic.jpg  ~ 0.06ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/menu/beffy.jpg ........ ~ 0.14ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/menu/nut-salad.jpg .... ~ 0.09ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/menu/juicy.jpg ........ ~ 0.23ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/menu/mojito.jpg ....... ~ 0.54ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/menu/burrata-salad.jpg  ~ 0.83ms
+  2026-08-11 12:53:04 /_assets/f53986e05559e5fd94bbc1341bfa912d-1786467128.js  ~ 501.22ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/events/event-birthday.jpg  ~ 0.09ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/events/event-holiday.jpg  ~ 0.26ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/events/event-baby.jpg . ~ 0.44ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 0.60ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/gallery/gallery-2.jpg . ~ 0.73ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/slide/slide-1.jpg ..... ~ 0.71ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/gallery/gallery-3.jpg . ~ 0.03ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/gallery/gallery-4.jpg . ~ 0.05ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/gallery/gallery-5.jpg . ~ 0.13ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/gallery/gallery-6.jpg . ~ 0.21ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/gallery/gallery-7.jpg . ~ 0.14ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/gallery/gallery-8.jpg . ~ 0.16ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/testimonials/bachir.jpg  ~ 0.26ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/testimonials/sywar.jpg  ~ 0.13ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/testimonials/rahma.jpg  ~ 0.20ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/testimonials/oussama.jpg  ~ 0.21ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/testimonials/mehdi.jpg  ~ 0.13ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/testimonials/testimonials-bg.jpg  ~ 0.11ms
+  2026-08-11 12:53:04 /vendor/pasta-cosi/img/events/events-bg.jpg .. ~ 0.19ms
+  2026-08-11 12:53:09 /vendor/pasta-cosi/img/slide/slide-2.jpg ..... ~ 0.30ms
+  2026-08-11 12:53:13 / ............................................ ~ 0.07ms
+  2026-08-11 12:53:13 / ............................................ ~ 0.03ms
+  2026-08-11 12:53:14 /_assets/ec76f0add629a189dca93f505346cbc8-1786467128.css  ~ 500.73ms
+  2026-08-11 12:53:14 /_assets/ec76f0add629a189dca93f505346cbc8-1786467128.css  ~ 0.16ms
+  2026-08-11 12:53:14 /_assets/f53986e05559e5fd94bbc1341bfa912d-1786467128.js  ~ 0.14ms
+  2026-08-11 12:53:14 /vendor/pasta-cosi/img/slide/slide-3.jpg ..... ~ 0.46ms
+  2026-08-11 12:53:23 /livewire/update ........................... ~ 500.94ms
+  2026-08-11 12:53:53 / ............................................ ~ 0.14ms
+  2026-08-11 12:53:53 /vendor/pasta-cosi/img/logo/logo.jpeg ........ ~ 0.11ms
+  2026-08-11 12:53:53 /vendor/pasta-cosi/img/menu/cleopatra.jfif ... ~ 0.52ms
+  2026-08-11 12:53:53 /_assets/ec76f0add629a189dca93f505346cbc8-1786467128.css  ~ 0.11ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/menu/schweppes-tonic.jpg  ~ 0.13ms
+  2026-08-11 12:53:54 /_assets/f53986e05559e5fd94bbc1341bfa912d-1786467128.js  ~ 500.77ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/menu/beffy.jpg ...... ~ 501.22ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/menu/nut-salad.jpg .. ~ 501.98ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/menu/juicy.jpg ........ ~ 0.90ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/menu/burrata-salad.jpg  ~ 2.43ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/menu/mojito.jpg ....... ~ 2.12ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/events/event-birthday.jpg  ~ 2.24ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/events/event-holiday.jpg  ~ 0.12ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/events/event-baby.jpg . ~ 0.18ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/slide/slide-1.jpg ..... ~ 0.62ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 0.82ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/gallery/gallery-2.jpg . ~ 0.58ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/gallery/gallery-3.jpg . ~ 0.14ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/gallery/gallery-4.jpg . ~ 0.14ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/gallery/gallery-5.jpg . ~ 0.13ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/gallery/gallery-6.jpg . ~ 0.13ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/gallery/gallery-7.jpg . ~ 0.13ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/gallery/gallery-8.jpg . ~ 0.14ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/testimonials/bachir.jpg  ~ 0.08ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/testimonials/sywar.jpg  ~ 0.11ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/testimonials/rahma.jpg  ~ 0.51ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/testimonials/oussama.jpg  ~ 0.26ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/testimonials/mehdi.jpg  ~ 0.76ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/events/events-bg.jpg .. ~ 0.45ms
+  2026-08-11 12:53:54 /vendor/pasta-cosi/img/testimonials/testimonials-bg.jpg  ~ 0.08ms
+  2026-08-11 12:53:56 /.well-known/appspecific/com.chrome.devtools.json  ~ 0.15ms
+  2026-08-11 12:54:00 /vendor/pasta-cosi/img/slide/slide-2.jpg ..... ~ 0.18ms
+  2026-08-11 12:54:05 /vendor/pasta-cosi/img/slide/slide-3.jpg ..... ~ 0.11ms
+  2026-08-11 12:54:38 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 0.32ms
+  2026-08-11 12:54:42 / ............................................ ~ 0.12ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/logo/logo.jpeg ........ ~ 0.08ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/menu/cleopatra.jfif ... ~ 0.32ms
+  2026-08-11 12:54:42 /_assets/ec76f0add629a189dca93f505346cbc8-1786467128.css  ~ 0.05ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/menu/schweppes-tonic.jpg  ~ 0.14ms
+  2026-08-11 12:54:42 /_assets/f53986e05559e5fd94bbc1341bfa912d-1786467128.js  ~ 0.21ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/menu/beffy.jpg ........ ~ 0.40ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/menu/nut-salad.jpg .... ~ 0.70ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/menu/juicy.jpg ........ ~ 0.61ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/menu/mojito.jpg ....... ~ 0.58ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/menu/burrata-salad.jpg  ~ 1.40ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/events/event-birthday.jpg  ~ 0.96ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/slide/slide-1.jpg ..... ~ 0.87ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/events/event-holiday.jpg  ~ 0.11ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 0.20ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/events/event-baby.jpg . ~ 0.36ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/gallery/gallery-2.jpg . ~ 0.10ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/gallery/gallery-3.jpg . ~ 0.26ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/gallery/gallery-4.jpg . ~ 0.42ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/gallery/gallery-5.jpg . ~ 0.40ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/gallery/gallery-6.jpg . ~ 0.41ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/gallery/gallery-7.jpg . ~ 0.27ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/gallery/gallery-8.jpg . ~ 0.26ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/testimonials/bachir.jpg  ~ 0.27ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/testimonials/sywar.jpg  ~ 0.24ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/testimonials/rahma.jpg  ~ 0.36ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/testimonials/oussama.jpg  ~ 0.51ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/testimonials/mehdi.jpg  ~ 0.27ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/events/events-bg.jpg .. ~ 0.22ms
+  2026-08-11 12:54:42 /vendor/pasta-cosi/img/testimonials/testimonials-bg.jpg  ~ 0.37ms
+  2026-08-11 12:54:51 /vendor/pasta-cosi/img/slide/slide-2.jpg ..... ~ 0.09ms
+  2026-08-11 12:54:56 /vendor/pasta-cosi/img/slide/slide-3.jpg ..... ~ 0.15ms
+  2026-08-11 12:56:19 / ............................................ ~ 0.38ms
+  2026-08-11 12:56:51 / .......................................... ~ 500.81ms
+  2026-08-11 12:56:55 / ............................................ ~ 0.07ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/logo/logo.jpeg ........ ~ 0.06ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/menu/cleopatra.jfif ... ~ 0.22ms
+  2026-08-11 12:56:55 /_assets/ec76f0add629a189dca93f505346cbc8-1786467128.css  ~ 501.27ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/menu/schweppes-tonic.jpg  ~ 0.42ms
+  2026-08-11 12:56:55 /_assets/f53986e05559e5fd94bbc1341bfa912d-1786467128.js  ~ 0.82ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/menu/beffy.jpg ........ ~ 1.81ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/menu/nut-salad.jpg .... ~ 2.77ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/menu/juicy.jpg ........ ~ 1.98ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/menu/mojito.jpg ....... ~ 1.91ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/menu/burrata-salad.jpg  ~ 5.57ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/events/event-birthday.jpg  ~ 3.64ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/slide/slide-1.jpg ..... ~ 0.22ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/events/event-holiday.jpg  ~ 0.30ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/events/event-baby.jpg . ~ 0.81ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 1.58ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/gallery/gallery-2.jpg . ~ 1.01ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/gallery/gallery-3.jpg . ~ 0.38ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/gallery/gallery-4.jpg . ~ 0.99ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/gallery/gallery-5.jpg . ~ 0.25ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/gallery/gallery-6.jpg . ~ 0.90ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/gallery/gallery-7.jpg . ~ 1.53ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/gallery/gallery-8.jpg . ~ 0.25ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/testimonials/bachir.jpg  ~ 0.89ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/testimonials/sywar.jpg  ~ 1.66ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/testimonials/rahma.jpg  ~ 1.06ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/testimonials/oussama.jpg  ~ 1.00ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/testimonials/mehdi.jpg  ~ 1.10ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/events/events-bg.jpg .. ~ 1.65ms
+  2026-08-11 12:56:55 /vendor/pasta-cosi/img/testimonials/testimonials-bg.jpg  ~ 1.50ms
+  2026-08-11 12:57:00 /vendor/pasta-cosi/img/slide/slide-2.jpg ..... ~ 0.46ms
+  2026-08-11 12:57:05 /vendor/pasta-cosi/img/slide/slide-3.jpg ..... ~ 0.47ms
+  2026-08-11 12:57:25 / ............................................ ~ 0.07ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/logo/logo.jpeg ........ ~ 0.04ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/menu/cleopatra.jfif ... ~ 0.13ms
+  2026-08-11 12:57:25 /_assets/ec76f0add629a189dca93f505346cbc8-1786467128.css  ~ 0.02ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/menu/schweppes-tonic.jpg  ~ 0.06ms
+  2026-08-11 12:57:25 /_assets/f53986e05559e5fd94bbc1341bfa912d-1786467128.js  ~ 0.10ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/menu/beffy.jpg ........ ~ 0.20ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/menu/nut-salad.jpg .... ~ 0.33ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/menu/juicy.jpg ........ ~ 0.30ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/menu/mojito.jpg ....... ~ 0.29ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/menu/burrata-salad.jpg  ~ 0.65ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/events/event-birthday.jpg  ~ 0.43ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/events/event-holiday.jpg  ~ 0.05ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/events/event-baby.jpg . ~ 0.10ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 0.17ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/gallery/gallery-2.jpg . ~ 0.24ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/gallery/gallery-3.jpg . ~ 0.09ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/gallery/gallery-4.jpg . ~ 0.03ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/gallery/gallery-5.jpg . ~ 0.04ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/gallery/gallery-6.jpg . ~ 0.10ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/gallery/gallery-7.jpg . ~ 0.05ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/gallery/gallery-8.jpg . ~ 0.11ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/testimonials/bachir.jpg  ~ 0.16ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/testimonials/sywar.jpg  ~ 0.23ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/testimonials/rahma.jpg  ~ 0.10ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/testimonials/oussama.jpg  ~ 0.11ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/slide/slide-1.jpg ..... ~ 0.10ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/testimonials/mehdi.jpg  ~ 0.20ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/events/events-bg.jpg .. ~ 0.19ms
+  2026-08-11 12:57:25 /vendor/pasta-cosi/img/testimonials/testimonials-bg.jpg  ~ 0.10ms
+  2026-08-11 12:57:48 /vendor/pasta-cosi/img/slide/slide-2.jpg ..... ~ 0.28ms
+  2026-08-11 21:44:45 /vendor/pasta-cosi/img/slide/slide-3.jpg ..... ~ 0.08ms
+  2026-08-11 21:45:06 /_assets/ec76f0add629a189dca93f505346cbc8-1786467128.css  ~ 0.14ms
+  2026-08-11 21:45:06 /.well-known/appspecific/com.chrome.devtools.json  ~ 0.08ms
+  2026-08-11 21:45:44 / .......................................... ~ 501.11ms
+  2026-08-11 21:45:44 /_assets/ec76f0add629a189dca93f505346cbc8-1786467128.css  ~ 0.24ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/logo/logo.jpeg ........ ~ 1.01ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/menu/cleopatra.jfif ... ~ 1.95ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/menu/schweppes-tonic.jpg  ~ 2.03ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/menu/beffy.jpg ........ ~ 2.54ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/menu/nut-salad.jpg .... ~ 2.39ms
+  2026-08-11 21:45:44 /_assets/f53986e05559e5fd94bbc1341bfa912d-1786467128.js  ~ 0.16ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/slide/slide-1.jpg ..... ~ 3.11ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/menu/juicy.jpg ........ ~ 1.37ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/menu/mojito.jpg ....... ~ 1.37ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/menu/burrata-salad.jpg  ~ 3.65ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/events/event-birthday.jpg  ~ 3.43ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/events/event-holiday.jpg  ~ 4.29ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/events/event-baby.jpg . ~ 0.46ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 1.19ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/gallery/gallery-2.jpg . ~ 1.96ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/gallery/gallery-3.jpg . ~ 1.06ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/gallery/gallery-4.jpg . ~ 0.46ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/gallery/gallery-5.jpg . ~ 1.12ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/gallery/gallery-6.jpg . ~ 1.88ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/gallery/gallery-7.jpg . ~ 1.15ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/gallery/gallery-8.jpg . ~ 1.09ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/testimonials/bachir.jpg  ~ 1.02ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/testimonials/sywar.jpg  ~ 0.84ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/testimonials/rahma.jpg  ~ 0.73ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/testimonials/oussama.jpg  ~ 1.24ms
+  2026-08-11 21:45:44 /vendor/pasta-cosi/img/testimonials/mehdi.jpg  ~ 0.14ms
+  2026-08-11 21:45:53 /vendor/pasta-cosi/img/slide/slide-2.jpg ..... ~ 0.23ms
+  2026-08-11 21:45:58 /vendor/pasta-cosi/img/slide/slide-3.jpg ..... ~ 0.09ms
+  2026-08-11 21:48:10 / .......................................... ~ 501.01ms
+  2026-08-11 21:48:10 /vendor/pasta-cosi/img/logo/logo.jpeg ........ ~ 0.28ms
+  2026-08-11 21:48:10 /vendor/pasta-cosi/img/menu/cleopatra.jfif ... ~ 0.90ms
+  2026-08-11 21:48:10 /vendor/pasta-cosi/img/menu/schweppes-tonic.jpg  ~ 0.27ms
+  2026-08-11 21:48:10 /vendor/pasta-cosi/img/menu/beffy.jpg ........ ~ 0.74ms
+  2026-08-11 21:48:10 /vendor/pasta-cosi/img/menu/nut-salad.jpg .... ~ 1.48ms
+  2026-08-11 21:48:10 /vendor/pasta-cosi/img/menu/burrata-salad.jpg  ~ 2.22ms
+  2026-08-11 21:48:10 /_assets/f53986e05559e5fd94bbc1341bfa912d-1786467128.js  ~ 0.17ms
+  2026-08-11 21:48:10 /vendor/pasta-cosi/img/menu/juicy.jpg ........ ~ 0.87ms
+  2026-08-11 21:48:11 /vendor/pasta-cosi/img/menu/mojito.jpg ....... ~ 1.08ms
+  2026-08-11 21:48:11 /vendor/pasta-cosi/img/events/event-birthday.jpg  ~ 1.69ms
+  2026-08-11 21:48:11 /vendor/pasta-cosi/img/events/event-holiday.jpg  ~ 2.14ms
+  2026-08-11 21:48:11 /vendor/pasta-cosi/img/events/event-baby.jpg . ~ 2.46ms
+  2026-08-11 21:48:11 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 0.31ms
+  2026-08-11 21:48:11 /vendor/pasta-cosi/img/gallery/gallery-2.jpg . ~ 1.11ms
+  2026-08-11 21:48:11 /vendor/pasta-cosi/img/gallery/gallery-3.jpg . ~ 2.04ms
+  2026-08-11 21:48:11 /vendor/pasta-cosi/img/gallery/gallery-4.jpg . ~ 2.29ms
+  2026-08-11 21:48:11 /vendor/pasta-cosi/img/gallery/gallery-5.jpg . ~ 0.52ms
+  2026-08-11 21:48:11 /vendor/pasta-cosi/img/gallery/gallery-6.jpg . ~ 1.14ms
+  2026-08-11 21:48:11 /vendor/pasta-cosi/img/gallery/gallery-7.jpg . ~ 1.74ms
+  2026-08-11 21:48:11 /vendor/pasta-cosi/img/gallery/gallery-8.jpg . ~ 2.43ms
+  2026-08-11 21:48:11 /vendor/pasta-cosi/img/testimonials/bachir.jpg  ~ 0.87ms
+  2026-08-11 21:48:11 /vendor/pasta-cosi/img/testimonials/sywar.jpg  ~ 0.46ms
+  2026-08-11 21:48:11 /vendor/pasta-cosi/img/testimonials/rahma.jpg  ~ 1.12ms
+  2026-08-11 21:48:11 /vendor/pasta-cosi/img/testimonials/oussama.jpg  ~ 1.65ms
+  2026-08-11 21:48:11 /vendor/pasta-cosi/img/testimonials/mehdi.jpg  ~ 1.50ms
+  2026-08-11 21:48:11 /vendor/pasta-cosi/img/slide/slide-1.jpg ..... ~ 0.96ms
+  2026-08-11 21:48:11 /vendor/pasta-cosi/img/testimonials/testimonials-bg.jpg  ~ 1.00ms
+  2026-08-11 21:48:11 /vendor/pasta-cosi/img/events/events-bg.jpg .. ~ 1.64ms
+  2026-08-11 21:48:20 /vendor/pasta-cosi/img/slide/slide-2.jpg ..... ~ 0.29ms
+  2026-08-11 21:48:25 /vendor/pasta-cosi/img/slide/slide-3.jpg ..... ~ 0.29ms
+  2026-08-11 21:51:58 /livewire/update ............................. ~ 0.07ms
+  2026-08-11 21:52:00 /livewire/update ........................... ~ 500.53ms
+  2026-08-11 21:52:03 /livewire/update ............................. ~ 0.27ms
+  2026-08-11 21:53:43 / ............................................ ~ 0.13ms
+  2026-08-11 21:53:43 /_assets/ec76f0add629a189dca93f505346cbc8-1786499622.css  ~ 0.10ms
+  2026-08-11 21:53:43 /vendor/pasta-cosi/img/logo/logo.jpeg ........ ~ 0.32ms
+  2026-08-11 21:53:43 /vendor/pasta-cosi/img/menu/cleopatra.jfif ... ~ 0.41ms
+  2026-08-11 21:53:43 /vendor/pasta-cosi/img/menu/schweppes-tonic.jpg  ~ 0.58ms
+  2026-08-11 21:53:43 /vendor/pasta-cosi/img/menu/beffy.jpg ........ ~ 0.69ms
+  2026-08-11 21:53:43 /vendor/pasta-cosi/img/menu/nut-salad.jpg .... ~ 0.94ms
+  2026-08-11 21:53:44 /_assets/f53986e05559e5fd94bbc1341bfa912d-1786499622.js  ~ 500.60ms
+  2026-08-11 21:53:44 /vendor/pasta-cosi/img/menu/juicy.jpg ...... ~ 501.03ms
+  2026-08-11 21:53:44 /vendor/pasta-cosi/img/menu/mojito.jpg ..... ~ 501.27ms
+  2026-08-11 21:53:44 /vendor/pasta-cosi/img/events/event-birthday.jpg  ~ 0.61ms
+  2026-08-11 21:53:44 /vendor/pasta-cosi/img/menu/burrata-salad.jpg  ~ 501.70ms
+  2026-08-11 21:53:44 /vendor/pasta-cosi/img/events/event-holiday.jpg  ~ 0.90ms
+  2026-08-11 21:53:44 /vendor/pasta-cosi/img/events/event-baby.jpg . ~ 0.11ms
+  2026-08-11 21:53:44 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 0.31ms
+  2026-08-11 21:53:44 /vendor/pasta-cosi/img/gallery/gallery-2.jpg . ~ 0.46ms
+  2026-08-11 21:53:44 /vendor/pasta-cosi/img/gallery/gallery-3.jpg . ~ 0.44ms
+  2026-08-11 21:53:44 /vendor/pasta-cosi/img/gallery/gallery-4.jpg . ~ 0.10ms
+  2026-08-11 21:53:44 /vendor/pasta-cosi/img/gallery/gallery-5.jpg . ~ 0.25ms
+  2026-08-11 21:53:44 /vendor/pasta-cosi/img/gallery/gallery-6.jpg . ~ 0.43ms
+  2026-08-11 21:53:44 /vendor/pasta-cosi/img/gallery/gallery-7.jpg . ~ 0.23ms
+  2026-08-11 21:53:44 /vendor/pasta-cosi/img/gallery/gallery-8.jpg . ~ 0.14ms
+  2026-08-11 21:53:44 /vendor/pasta-cosi/img/testimonials/bachir.jpg  ~ 0.31ms
+  2026-08-11 21:53:44 /vendor/pasta-cosi/img/testimonials/sywar.jpg  ~ 0.47ms
+  2026-08-11 21:53:44 /vendor/pasta-cosi/img/testimonials/rahma.jpg  ~ 0.53ms
+  2026-08-11 21:53:44 /vendor/pasta-cosi/img/testimonials/oussama.jpg  ~ 0.57ms
+  2026-08-11 21:53:44 /vendor/pasta-cosi/img/testimonials/mehdi.jpg  ~ 0.32ms
+  2026-08-11 21:53:44 /vendor/pasta-cosi/img/slide/slide-1.jpg ..... ~ 0.27ms
+  2026-08-11 21:53:44 /vendor/pasta-cosi/img/events/events-bg.jpg .. ~ 0.47ms
+  2026-08-11 21:53:44 /vendor/pasta-cosi/img/testimonials/testimonials-bg.jpg  ~ 0.63ms
+  2026-08-11 21:53:49 /vendor/pasta-cosi/img/slide/slide-2.jpg ..... ~ 0.42ms
+  2026-08-11 21:53:51 / ............................................ ~ 0.08ms
+  2026-08-11 21:53:54 /vendor/pasta-cosi/img/slide/slide-3.jpg ..... ~ 0.17ms
+  2026-08-11 21:54:02 / .......................................... ~ 500.87ms
+  2026-08-11 21:54:03 /_assets/ec76f0add629a189dca93f505346cbc8-1786499622.css  ~ 0.17ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/logo/logo.jpeg ........ ~ 0.32ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/menu/cleopatra.jfif ... ~ 1.06ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/menu/schweppes-tonic.jpg  ~ 1.66ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/menu/beffy.jpg ........ ~ 2.14ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/menu/nut-salad.jpg .... ~ 2.85ms
+  2026-08-11 21:54:03 /_assets/f53986e05559e5fd94bbc1341bfa912d-1786499622.js  ~ 0.34ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/menu/juicy.jpg ........ ~ 0.88ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/menu/mojito.jpg ....... ~ 1.47ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/events/event-birthday.jpg  ~ 1.58ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/menu/burrata-salad.jpg  ~ 2.78ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/events/event-holiday.jpg  ~ 2.53ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/slide/slide-1.jpg ..... ~ 3.03ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/events/event-baby.jpg . ~ 0.25ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 0.77ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/gallery/gallery-2.jpg . ~ 0.23ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/gallery/gallery-3.jpg . ~ 0.37ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/gallery/gallery-4.jpg . ~ 0.87ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/gallery/gallery-5.jpg . ~ 1.40ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/gallery/gallery-6.jpg . ~ 1.90ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/gallery/gallery-7.jpg . ~ 0.36ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/gallery/gallery-8.jpg . ~ 0.92ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/testimonials/bachir.jpg  ~ 1.45ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/testimonials/sywar.jpg  ~ 2.08ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/testimonials/rahma.jpg  ~ 0.95ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/testimonials/oussama.jpg  ~ 1.01ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/testimonials/mehdi.jpg  ~ 0.92ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/events/events-bg.jpg .. ~ 1.29ms
+  2026-08-11 21:54:03 /vendor/pasta-cosi/img/testimonials/testimonials-bg.jpg  ~ 1.28ms
+  2026-08-11 21:54:08 /vendor/pasta-cosi/img/slide/slide-2.jpg ..... ~ 0.08ms
+  2026-08-11 21:54:13 /vendor/pasta-cosi/img/slide/slide-3.jpg ..... ~ 0.11ms
+  2026-08-11 21:55:22 /livewire/update ............................. ~ 0.10ms
+  2026-08-11 21:56:05 /livewire/update ........................... ~ 500.96ms
+  2026-08-11 21:56:36 /livewire/update ............................. ~ 0.37ms
+  2026-08-11 21:57:21 / .......................................... ~ 500.34ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/logo/logo.jpeg ........ ~ 0.06ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/menu/cleopatra.jfif ... ~ 0.20ms
+  2026-08-11 21:57:21 /_assets/ec76f0add629a189dca93f505346cbc8-1786499622.css  ~ 0.03ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/menu/schweppes-tonic.jpg  ~ 0.07ms
+  2026-08-11 21:57:21 /_assets/f53986e05559e5fd94bbc1341bfa912d-1786499622.js  ~ 0.12ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/menu/beffy.jpg ........ ~ 0.23ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/menu/nut-salad.jpg .... ~ 0.37ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/menu/juicy.jpg ........ ~ 0.32ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/menu/mojito.jpg ....... ~ 0.31ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/menu/burrata-salad.jpg  ~ 0.73ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/events/event-birthday.jpg  ~ 0.48ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/slide/slide-1.jpg ..... ~ 0.47ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/events/event-holiday.jpg  ~ 0.09ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/events/event-baby.jpg . ~ 0.15ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 0.23ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/gallery/gallery-2.jpg . ~ 0.13ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/gallery/gallery-3.jpg . ~ 0.11ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/gallery/gallery-4.jpg . ~ 0.06ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/gallery/gallery-5.jpg . ~ 0.13ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/gallery/gallery-6.jpg . ~ 0.25ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/gallery/gallery-7.jpg . ~ 0.32ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/gallery/gallery-8.jpg . ~ 0.22ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/testimonials/bachir.jpg  ~ 0.28ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/testimonials/sywar.jpg  ~ 0.05ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/testimonials/rahma.jpg  ~ 0.12ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/testimonials/oussama.jpg  ~ 0.21ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/testimonials/mehdi.jpg  ~ 0.14ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/testimonials/testimonials-bg.jpg  ~ 0.11ms
+  2026-08-11 21:57:21 /vendor/pasta-cosi/img/events/events-bg.jpg .. ~ 0.27ms
+  2026-08-11 21:57:28 / ............................................ ~ 0.09ms
+  2026-08-11 21:57:28 /_assets/ec76f0add629a189dca93f505346cbc8-1786499622.css  ~ 500.69ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/logo/logo.jpeg ........ ~ 0.49ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/menu/cleopatra.jfif ... ~ 1.35ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/menu/schweppes-tonic.jpg  ~ 1.90ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/menu/beffy.jpg ........ ~ 2.19ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/menu/nut-salad.jpg .... ~ 2.92ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/menu/burrata-salad.jpg  ~ 0.14ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/menu/juicy.jpg ........ ~ 0.37ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/menu/mojito.jpg ....... ~ 0.72ms
+  2026-08-11 21:57:28 /_assets/f53986e05559e5fd94bbc1341bfa912d-1786499622.js  ~ 0.96ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/events/event-birthday.jpg  ~ 0.13ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/events/event-holiday.jpg  ~ 0.29ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/events/event-baby.jpg . ~ 0.41ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/gallery/gallery-1.jpg . ~ 0.52ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/gallery/gallery-2.jpg . ~ 0.64ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/gallery/gallery-3.jpg . ~ 0.13ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/gallery/gallery-4.jpg . ~ 0.30ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/gallery/gallery-5.jpg . ~ 0.23ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/gallery/gallery-6.jpg . ~ 0.40ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/gallery/gallery-7.jpg . ~ 0.26ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/gallery/gallery-8.jpg . ~ 0.28ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/testimonials/bachir.jpg  ~ 0.25ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/testimonials/sywar.jpg  ~ 0.35ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/testimonials/rahma.jpg  ~ 0.32ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/testimonials/oussama.jpg  ~ 0.70ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/testimonials/mehdi.jpg  ~ 0.09ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/slide/slide-1.jpg ..... ~ 0.23ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/events/events-bg.jpg .. ~ 0.44ms
+  2026-08-11 21:57:28 /vendor/pasta-cosi/img/testimonials/testimonials-bg.jpg  ~ 0.47ms
+  2026-08-11 21:57:31 /vendor/pasta-cosi/img/slide/slide-2.jpg ..... ~ 0.17ms
+  2026-08-11 21:57:33 /vendor/pasta-cosi/img/slide/slide-2.jpg ..... ~ 0.10ms
+  2026-08-11 21:57:37 /vendor/pasta-cosi/img/slide/slide-3.jpg ..... ~ 0.14ms
+  2026-08-11 21:57:38 /vendor/pasta-cosi/img/slide/slide-3.jpg ..... ~ 0.08ms

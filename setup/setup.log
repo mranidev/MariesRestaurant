@@ -1,0 +1,523 @@
+.++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
+.------------------- TASTYIGNITER SETUP LOG ------------------.
+.++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
+[2026/08/11 15:21:18] => Host: Linux nsa 6.18.3-arch1-1 #1 SMP PREEMPT_DYNAMIC Fri, 02 Jan 2026 17:52:55 +0000 x86_64
+[2026/08/11 15:21:18] => PHP version: 8.5.5
+[2026/08/11 15:21:18] => Server software: PHP/8.5.5 (Development Server)
+[2026/08/11 15:21:18] => Operating system: Linux
+[2026/08/11 15:21:18] => Memory limit: 1G
+[2026/08/11 15:21:18] => Max execution time: 0
+[2026/08/11 15:21:22] => .============================ POST REQUEST ==========================.
+[2026/08/11 15:21:22] => Postback payload: Array
+(
+    [handler] => onCheckRequirements
+    [code] => php
+)
+
+[2026/08/11 15:21:22] => System check: php
+[2026/08/11 15:21:22] => Requirement php +OK
+[2026/08/11 15:21:22] => Execute handler (onCheckRequirements): Array
+(
+    [result] => 1
+    [blocking] => 1
+)
+
+[2026/08/11 15:21:22] => .============================ POST REQUEST ==========================.
+[2026/08/11 15:21:22] => Postback payload: Array
+(
+    [handler] => onCheckRequirements
+    [code] => extensions
+)
+
+[2026/08/11 15:21:22] => System check: extensions
+[2026/08/11 15:21:22] => Requirement extensions +OK
+[2026/08/11 15:21:22] => Execute handler (onCheckRequirements): Array
+(
+    [result] => 1
+    [blocking] => 1
+)
+
+[2026/08/11 15:21:22] => .============================ POST REQUEST ==========================.
+[2026/08/11 15:21:22] => Postback payload: Array
+(
+    [handler] => onCheckRequirements
+    [code] => pdo
+)
+
+[2026/08/11 15:21:22] => System check: pdo
+[2026/08/11 15:21:22] => Requirement pdo +OK
+[2026/08/11 15:21:22] => Execute handler (onCheckRequirements): Array
+(
+    [result] => 1
+    [blocking] => 1
+)
+
+[2026/08/11 15:21:22] => .============================ POST REQUEST ==========================.
+[2026/08/11 15:21:22] => Postback payload: Array
+(
+    [handler] => onCheckRequirements
+    [code] => curl
+)
+
+[2026/08/11 15:21:22] => System check: curl
+[2026/08/11 15:21:22] => Requirement curl +OK
+[2026/08/11 15:21:22] => Execute handler (onCheckRequirements): Array
+(
+    [result] => 1
+    [blocking] => 1
+)
+
+[2026/08/11 15:21:22] => .============================ POST REQUEST ==========================.
+[2026/08/11 15:21:22] => Postback payload: Array
+(
+    [handler] => onCheckRequirements
+    [code] => zip
+)
+
+[2026/08/11 15:21:22] => System check: zip
+[2026/08/11 15:21:22] => Requirement zip +OK
+[2026/08/11 15:21:22] => Execute handler (onCheckRequirements): Array
+(
+    [result] => 1
+    [blocking] => 1
+)
+
+[2026/08/11 15:21:22] => .============================ POST REQUEST ==========================.
+[2026/08/11 15:21:22] => Postback payload: Array
+(
+    [handler] => onCheckRequirements
+    [code] => network
+)
+
+[2026/08/11 15:21:22] => System check: network
+[2026/08/11 15:21:23] => Requirement network +OK
+[2026/08/11 15:21:23] => Execute handler (onCheckRequirements): Array
+(
+    [result] => 1
+    [blocking] => 1
+)
+
+[2026/08/11 15:21:23] => .============================ POST REQUEST ==========================.
+[2026/08/11 15:21:23] => Postback payload: Array
+(
+    [handler] => onCheckRequirements
+    [code] => writable
+)
+
+[2026/08/11 15:21:23] => System check: writable
+[2026/08/11 15:21:23] => Requirement writable +OK
+[2026/08/11 15:21:23] => Execute handler (onCheckRequirements): Array
+(
+    [result] => 1
+    [blocking] => 1
+)
+
+[2026/08/11 15:21:26] => .============================ POST REQUEST ==========================.
+[2026/08/11 15:21:26] => Postback payload: Array
+(
+    [handler] => onAcceptLicense
+    [license_agreed] => accepted
+)
+
+[2026/08/11 15:21:27] => License accepted
+[2026/08/11 15:21:27] => Execute handler (onAcceptLicense): Array
+(
+    [step] => database
+)
+
+[2026/08/11 15:21:27] => .============================ POST REQUEST ==========================.
+[2026/08/11 15:21:27] => Postback payload: Array
+(
+    [handler] => onValidateDatabase
+    [host] => 127.0.0.1
+    [port] => 3307
+    [database] => tastyigniter
+    [username] => root
+    [password] => *******
+    [prefix] => ti_
+)
+
+[2026/08/11 15:21:27] => Database tastyigniter +OK
+[2026/08/11 15:21:27] => Execute handler (onValidateDatabase): Array
+(
+    [step] => install
+)
+
+[2026/08/11 15:21:31] => .============================ POST REQUEST ==========================.
+[2026/08/11 15:21:31] => Postback payload: Array
+(
+    [handler] => onInstall
+    [process] => prepare
+)
+
+[2026/08/11 15:21:31] => Install step: prepare
+[2026/08/11 15:21:31] => Install step prepare +OK
+[2026/08/11 15:21:31] => Execute handler (onInstall): Array
+(
+    [result] => 1
+)
+
+[2026/08/11 15:21:31] => .============================ POST REQUEST ==========================.
+[2026/08/11 15:21:31] => Postback payload: Array
+(
+    [handler] => onInstall
+    [process] => download
+)
+
+[2026/08/11 15:21:31] => Install step: download
+[2026/08/11 15:21:35] => Downloaded 29918965 bytes of release v4.3.4
+[2026/08/11 15:21:35] => Install step download +OK
+[2026/08/11 15:21:35] => Execute handler (onInstall): Array
+(
+    [result] => Array
+        (
+            [complete] => 1
+            [downloaded] => 29918965
+            [total] => 29918965
+            [tag] => v4.3.4
+            [version] => 4.3.4
+        )
+
+)
+
+[2026/08/11 15:21:40] => .============================ POST REQUEST ==========================.
+[2026/08/11 15:21:40] => Postback payload: Array
+(
+    [handler] => onInstall
+    [process] => extract
+)
+
+[2026/08/11 15:21:40] => Install step: extract
+[2026/08/11 15:21:46] => Extracted release from /home/lone/MariesRestaurant /setup/temp/extract/tastyigniter-4.3.4 to /home/lone/MariesRestaurant 
+[2026/08/11 15:21:46] => Install step extract +OK
+[2026/08/11 15:21:46] => Execute handler (onInstall): Array
+(
+    [result] => 1
+)
+
+[2026/08/11 15:21:46] => .============================ POST REQUEST ==========================.
+[2026/08/11 15:21:46] => Postback payload: Array
+(
+    [handler] => onInstall
+    [process] => config
+)
+
+[2026/08/11 15:21:46] => Install step: config
+[2026/08/11 15:21:47] => Laravel application bootstrapped from /home/lone/MariesRestaurant 
+[2026/08/11 15:21:47] => Artisan key:generate output:
+INFO  Application key set successfully.
+[2026/08/11 15:21:47] => Install step config +OK
+[2026/08/11 15:21:47] => Execute handler (onInstall): Array
+(
+    [result] => 1
+)
+
+[2026/08/11 15:21:51] => .============================ POST REQUEST ==========================.
+[2026/08/11 15:21:51] => Postback payload: Array
+(
+    [handler] => onInstall
+    [process] => install
+)
+
+[2026/08/11 15:21:51] => Install step: install
+[2026/08/11 15:21:52] => Laravel application bootstrapped from /home/lone/MariesRestaurant 
+[2026/08/11 15:22:13] => Artisan igniter:install output:
+********************************
+*     INSTALLATION STARTED     *
+********************************
+
+Enter a new value, or press ENTER for the default
+Migrating application and extensions...
+
+   INFO  Preparing database.  
+
+  Creating migration table ...................................... 27.32ms DONE
+
+   INFO  Running migrations.  
+
+  2014_10_12_000000_create_users_table ......................... 110.88ms DONE
+  2014_10_12_100000_create_password_resets_table ............... 102.68ms DONE
+  2019_08_19_000000_create_failed_jobs_table ................... 131.85ms DONE
+  2019_12_14_000001_create_personal_access_tokens_table ........ 199.66ms DONE
+
+
+   INFO  Migrating group igniter.system.  
+
+   INFO  Running migrations.  
+
+  igniter.system::2015_03_25_000001_create_tables .................... 1s DONE
+  igniter.system::2016_11_29_000300_optimize_tables_columns .......... 3s DONE
+  igniter.system::2017_04_13_000300_modify_columns_on_users_and_customers_tables  396.54ms DONE
+  igniter.system::2017_05_08_000300_add_columns ................ 499.19ms DONE
+  igniter.system::2017_06_11_000300_create_payments_and_payment_logs_table  47.20ms DONE
+  igniter.system::2017_08_23_000300_create_themes_table ......... 35.71ms DONE
+  igniter.system::2018_01_23_000300_create_language_translations_table  57.15ms DONE
+  igniter.system::2018_03_30_000300_create_extension_settings_table  64.22ms DONE
+  igniter.system::2018_06_12_000300_rename_model_class_names_to_morph_map_custom_names  3.30ms DONE
+  igniter.system::2018_10_19_000300_create_media_attachments_table  62.08ms DONE
+  igniter.system::2019_04_16_000300_nullify_customer_id_on_addresses_table  28.22ms DONE
+  igniter.system::2019_07_01_000300_delete_unused_columns_from_activities_table  172.81ms DONE
+  igniter.system::2019_07_22_000300_add_user_type_column_to_activities_table  18.04ms DONE
+  igniter.system::2019_07_30_000300_create_mail_partials_table .. 28.14ms DONE
+  igniter.system::2020_02_05_000300_delete_stale_unused_table ... 72.45ms DONE
+  igniter.system::2020_04_16_000300_drop_stale_unused_columns .. 137.11ms DONE
+  igniter.system::2020_05_24_000300_create_request_logs_table ... 11.47ms DONE
+  igniter.system::2021_09_06_010000_add_timestamps_to_tables ... 355.09ms DONE
+  igniter.system::2021_10_22_010000_make_primary_key_bigint_all_tables  382.89ms DONE
+  igniter.system::2022_04_20_000300_add_version_column_to_languages_table  21.92ms DONE
+  igniter.system::2022_05_14_000300_update_class_view_lang_namespaces  2.24ms DONE
+  igniter.system::2022_06_30_010000_drop_foreign_key_constraints_on_all_tables  53.25ms DONE
+  igniter.system::2023_02_24_000300_drop_activities_table ........ 7.91ms DONE
+  igniter.system::2023_03_05_123125_create_notifications_table .. 27.34ms DONE
+  igniter.system::2023_04_23_000300_reduce_column_key_size_language_translations_table  41.42ms DONE
+  igniter.system::2023_04_24_000300_nullable_layout_id_column_mail_layouts_table  22.94ms DONE
+  igniter.system::2023_05_20_000300_add_is_default_column_locations_countries_currencies_customer_groups_languages_tables  88.01ms DONE
+  igniter.system::2025_03_29_164243_remove_deprecated_code_from_mail_layouts  0.83ms DONE
+  igniter.system::2025_05_04_000300_increase_version_column_length_languages_table  47.44ms DONE
+  igniter.system::2025_05_11_000300_fix_renamed_mail_templates_table  8.01ms DONE
+  igniter.system::2025_11_15_165912_add_indexes ................ 122.23ms DONE
+
+
+   INFO  Migrating group igniter.admin.  
+
+   INFO  Running migrations.  
+
+  igniter.admin::2017_08_25_000300_create_location_areas_table ... 9.44ms DONE
+  igniter.admin::2017_08_25_000300_create_menu_categories_table . 65.22ms DONE
+  igniter.admin::2018_01_19_000300_add_hash_columns_on_orders_reservations_table  108.81ms DONE
+  igniter.admin::2018_04_06_000300_drop_unique_on_order_totals_table  107.86ms DONE
+  igniter.admin::2018_04_12_000300_modify_columns_on_orders_reservations_table  43.55ms DONE
+  igniter.admin::2018_05_21_000300_drop_redundant_columns_on_kitchen_tables  67.34ms DONE
+  igniter.admin::2018_05_29_000300_add_columns_on_location_areas_table  40.50ms DONE
+  igniter.admin::2018_06_12_000300_create_locationables_table ... 12.42ms DONE
+  igniter.admin::2018_07_04_000300_create_user_preferences_table  10.69ms DONE
+  igniter.admin::2018_10_09_000300_auto_increment_on_order_totals_table  27.66ms DONE
+  igniter.admin::2019_04_09_000300_auto_increment_on_user_preferences_table  36.09ms DONE
+  igniter.admin::2019_07_02_000300_add_columns_on_menu_specials_table  157.50ms DONE
+  igniter.admin::2019_07_16_000300_create_reservation_tables_table  87.95ms DONE
+  igniter.admin::2019_07_21_000300_change_sort_value_ratings_to_config_on_settings_table  2.23ms DONE
+  igniter.admin::2019_11_08_000300_add_selected_columns_to_menu_options_table  60.18ms DONE
+  igniter.admin::2020_02_18_000400_create_staffs_groups_and_locations_table  23.24ms DONE
+  igniter.admin::2020_02_21_000400_create_staff_roles_table ..... 50.94ms DONE
+  igniter.admin::2020_02_22_000300_remove_add_columns_on_staff_staff_groups_table  168.42ms DONE
+  igniter.admin::2020_02_25_000300_create_assignable_logs_table  189.05ms DONE
+  igniter.admin::2020_03_18_000300_add_quantity_column_to_order_menu_options_table  41.16ms DONE
+  igniter.admin::2020_04_05_000300_create_payment_profiles_table  81.54ms DONE
+  igniter.admin::2020_04_16_000300_drop_stale_unused_columns ... 109.01ms DONE
+  igniter.admin::2020_05_31_000300_drop_more_unused_columns .... 461.65ms DONE
+  igniter.admin::2020_06_11_000300_create_menu_mealtimes_table . 149.92ms DONE
+  igniter.admin::2020_08_16_000300_modify_columns_on_tables_reservations_table  54.17ms DONE
+  igniter.admin::2020_08_18_000300_create_allergens_table ....... 92.53ms DONE
+  igniter.admin::2020_09_28_000300_add_refund_columns_to_payment_logs_table  78.51ms DONE
+  igniter.admin::2020_12_13_000300_merge_staffs_locations_into_locationables_table  15.37ms DONE
+  igniter.admin::2020_12_22_000300_add_priority_column_to_location_areas_table  21.95ms DONE
+  igniter.admin::2021_01_04_000300_add_update_related_column_to_menu_options_table  17.16ms DONE
+  igniter.admin::2021_01_04_010000_add_order_time_is_asap_on_orders_table  15.66ms DONE
+  igniter.admin::2021_04_23_010000_remove_unused_columns ....... 132.63ms DONE
+  igniter.admin::2021_05_26_010000_alter_order_type_columns ..... 28.06ms DONE
+  igniter.admin::2021_05_29_010000_add_is_summable_on_order_totals_table  16.72ms DONE
+  igniter.admin::2021_07_20_010000_add_columns_default_value .... 41.20ms DONE
+  igniter.admin::2021_09_03_010000_make_serialize_columns_json . 152.25ms DONE
+  igniter.admin::2021_09_06_010000_add_timestamps_to_tables .......... 1s DONE
+  igniter.admin::2021_10_22_010000_make_primary_key_bigint_all_tables  1s DONE
+  igniter.admin::2021_11_28_000300_create_stocks_table ......... 122.93ms DONE
+  igniter.admin::2022_02_03_000300_rename_allergens_to_ingredients_table  147.32ms DONE
+  igniter.admin::2022_02_07_010000_add_low_stock_alerted_on_stocks_table  14.86ms DONE
+  igniter.admin::2022_02_17_000300_merge_staffs_into_users_table  388.74ms DONE
+  igniter.admin::2022_04_27_000300_create_location_options_table  23.35ms DONE
+  igniter.admin::2022_05_10_000300_add_primary_key_to_working_hours_table  25.33ms DONE
+  igniter.admin::2022_06_10_030300_prefix_users_tables_with_admin_table  33.84ms DONE
+  igniter.admin::2022_06_30_010000_drop_foreign_key_constraints_on_all_tables  273.01ms DONE
+  igniter.admin::2022_09_03_000300_make_location_options_fields_unique  20.90ms DONE
+  igniter.admin::2022_10_26_000300_make_code_field_unique_mail_layouts_partials_table  78.59ms DONE
+  igniter.admin::2022_11_03_003000_merge_menu_item_options_tables  173.23ms DONE
+  igniter.admin::2023_01_10_000400_add_delivery_comment_orders_table  15.49ms DONE
+  igniter.admin::2023_05_22_000400_add_invited_at_activated_at_orders_table  120.84ms DONE
+  igniter.admin::2023_06_06_000400_update_dashboard_widget_properties_on_user_preferences_table  22.54ms DONE
+  igniter.admin::2023_07_01_000300_create_location_settings ..... 31.80ms DONE
+  igniter.admin::2023_07_01_000400_copy_location_options_to_settings  23.06ms DONE
+  igniter.admin::2025_11_15_165912_add_indexes .................. 56.51ms DONE
+
+
+   INFO  Migrating group igniter.main.  
+
+   INFO  Nothing to migrate.  
+
+   INFO  Migrating group igniter.api.  
+
+   INFO  Running migrations.  
+
+  igniter.api::2018_10_12_000300_create_resources_table .......... 9.08ms DONE
+  igniter.api::2020_04_27_000300_update_class_names_api_resources_table  1.58ms DONE
+  igniter.api::2020_05_18_000300_create_access_tokens_table ..... 74.53ms DONE
+  igniter.api::2020_11_11_000300_alter_resources_table .......... 53.91ms DONE
+  igniter.api::2021_11_18_010000_make_primary_key_bigint_all_tables  44.58ms DONE
+  igniter.api::2023_06_15_010000_drop_controller_resources_table  28.11ms DONE
+
+
+   INFO  Migrating group igniter.automation.  
+
+   INFO  Running migrations.  
+
+  igniter.automation::2018_10_01_000100_create_all_tables ...... 112.61ms DONE
+  igniter.automation::2020_11_08_000300_create_task_log_table ... 29.58ms DONE
+  igniter.automation::2021_11_18_010000_make_primary_key_bigint_all_tables  166.37ms DONE
+  igniter.automation::2021_11_18_010300_add_foreign_key_constraints_to_tables  268.69ms DONE
+  igniter.automation::2022_06_30_010000_drop_foreign_key_constraints  108.53ms DONE
+
+
+   INFO  Migrating group igniter.cart.  
+
+   INFO  Running migrations.  
+
+  igniter.cart::2017_10_20_000100_create_conditions_settings ..... 2.08ms DONE
+  igniter.cart::2017_11_20_010000_create_cart_table ............. 11.41ms DONE
+  igniter.cart::2018_09_20_010000_rename_content_field_on_cart_table  19.13ms DONE
+  igniter.cart::2025_05_22_010000_make_menu_description_nullable_table  29.79ms DONE
+  igniter.cart::2025_07_08_010000_add_start_end_date_mealtimes_table  196.38ms DONE
+  igniter.cart::2025_11_15_165912_add_indexes .................. 623.01ms DONE
+  igniter.cart::2026_02_27_010000_add_out_of_stock_override_to_stocks_table  54.03ms DONE
+  igniter.cart::2026_06_20_010000_create_menu_item_option_linked_values_table  28.46ms DONE
+
+
+   INFO  Migrating group igniter.coupons.  
+
+   INFO  Running migrations.  
+
+  igniter.coupons::2020_09_17_000300_create_coupons_table_or_rename  39.71ms DONE
+  igniter.coupons::2020_09_18_000300_create_coupon_relations_tables  136.88ms DONE
+  igniter.coupons::2020_10_15_000300_create_cart_restriction .... 22.48ms DONE
+  igniter.coupons::2020_11_01_000300_add_auto_apply_field_on_coupons_table  16.18ms DONE
+  igniter.coupons::2021_02_22_000300_increase_coupon_code_character_limit  39.02ms DONE
+  igniter.coupons::2021_05_26_010000_alter_order_restriction_column  37.38ms DONE
+  igniter.coupons::2021_09_06_010000_add_timestamps_to_coupons . 128.98ms DONE
+  igniter.coupons::2021_11_18_010000_make_primary_key_bigint_all_tables  57.56ms DONE
+  igniter.coupons::2021_11_18_010300_add_foreign_key_constraints_to_tables  0.82ms DONE
+  igniter.coupons::2022_06_30_010000_drop_foreign_key_constraints  40.42ms DONE
+  igniter.coupons::2023_06_03_010000_set_nullable_columns ....... 67.11ms DONE
+  igniter.coupons::2023_09_28_010000_create_coupon_customer_groups_tables  17.31ms DONE
+  igniter.coupons::2023_10_19_010000_change_is_limited_to_cart_item_to_apply_coupon_on_enum  32.90ms DONE
+  igniter.coupons::2025_11_21_010000_add_min_menu_quantity ...... 24.02ms DONE
+
+
+   INFO  Migrating group igniter.frontend.  
+
+   INFO  Running migrations.  
+
+  igniter.frontend::2018_01_28_000300_create_subscribers_table .. 12.51ms DONE
+  igniter.frontend::2018_06_28_000300_create_banners_table ....... 0.72ms DONE
+  igniter.frontend::2019_11_02_000300_create_sliders_table ...... 95.85ms DONE
+  igniter.frontend::2021_10_20_000300_rename_banners_table ....... 8.46ms DONE
+  igniter.frontend::2021_11_18_010000_make_primary_key_bigint_all_tables  75.04ms DONE
+  igniter.frontend::2021_11_18_010300_add_foreign_key_constraints_to_tables  53.42ms DONE
+  igniter.frontend::2022_06_30_010000_drop_foreign_key_constraints  44.33ms DONE
+  igniter.frontend::2024_02_28_010000_add_code_banners_table .... 19.69ms DONE
+
+
+   INFO  Migrating group igniter.local.  
+
+   INFO  Running migrations.  
+
+  igniter.local::2020_09_17_000300_create_reviews_table_or_rename  41.72ms DONE
+  igniter.local::2020_12_10_000300_update_reviews_table ......... 81.81ms DONE
+  igniter.local::2021_01_02_000300_add_last_location_area_customers_table  20.05ms DONE
+  igniter.local::2021_09_06_010000_add_timestamps_to_reviews .... 71.60ms DONE
+  igniter.local::2021_11_18_010000_make_primary_key_bigint_all_tables  142.22ms DONE
+  igniter.local::2024_06_04_010000_rename_sale_type_sale_id_reviews  36.50ms DONE
+  igniter.local::2025_11_15_165912_add_indexes .................. 75.17ms DONE
+
+
+   INFO  Migrating group igniter.pages.  
+
+   INFO  Running migrations.  
+
+  igniter.pages::2018_06_28_000300_create_pages_table ............ 5.95ms DONE
+  igniter.pages::2019_11_28_000300_create_menus_table .......... 103.43ms DONE
+  igniter.pages::2019_11_28_000400_alter_columns_on_pages_table  145.54ms DONE
+  igniter.pages::2021_03_31_000300_seed_menus_table .............. 3.23ms DONE
+  igniter.pages::2021_09_06_010000_add_timestamps_to_pages ...... 84.65ms DONE
+  igniter.pages::2021_10_20_010000_add_foreign_key_constraints_to_tables  74.26ms DONE
+  igniter.pages::2022_09_16_010000_change_page_content_to_medium_text  32.41ms DONE
+  igniter.pages::2023_01_28_010000_make_page_id_incremental ..... 35.64ms DONE
+
+
+   INFO  Migrating group igniter.payregister.  
+
+   INFO  Running migrations.  
+
+  igniter.payregister::2021_05_08_000300_seed_default_payment_gateways  52.22ms DONE
+
+
+   INFO  Migrating group igniter.reservation.  
+
+   INFO  Running migrations.  
+
+  igniter.reservation::2022_09_15_000300_create_dining_areas_sections_tables_add_columns_table  310.05ms DONE
+  igniter.reservation::2023_07_01_000500_copy_location_options_to_settings  2.19ms DONE
+  igniter.reservation::2025_03_29_164012_remove_table_id_foreign_key  5.88ms DONE
+  igniter.reservation::2025_04_03_164012_make_telephone_on_reservations_nullable  31.66ms DONE
+  igniter.reservation::2025_05_15_164012_make_telephone_on_reservations_string  33.10ms DONE
+  igniter.reservation::2025_08_30_164012_make_status_id_on_reservations_integer  53.32ms DONE
+  igniter.reservation::2025_10_03_000000_add_indexes_to_dining_tables_and_areas  210.61ms DONE
+
+
+   INFO  Migrating group igniter.socialite.  
+
+   INFO  Running migrations.  
+
+  igniter.socialite::2018_10_11_211028_create_socialite_providers_table  79.35ms DONE
+  igniter.socialite::2022_02_04_211028_add_user_type_column_socialite_providers_table  22.58ms DONE
+  igniter.socialite::2022_06_14_211028_increase_string_length .. 129.06ms DONE
+
+
+   INFO  Migrating group igniter.user.  
+
+   INFO  Running migrations.  
+
+  igniter.user::2024_05_30_000400_add_user_id_assignable_logs ... 18.50ms DONE
+  igniter.user::2025_04_04_000400_make_password_nullable_on_admin_users_customers  48.21ms DONE
+  igniter.user::2025_06_01_000400_add_telephone_column_on_users . 20.12ms DONE
+  igniter.user::2025_11_15_165912_add_indexes ................... 19.99ms DONE
+
+Done. Migrating application and extensions...
+   INFO  The [public/storage] link has been connected to [storage/app/public].  
+
+Publishing theme assets...
+  Copying directory [vendor/tastyigniter/ti-theme-orange/public] to [public/vendor/igniter-orange]  DONE
+Publishing complete.
+*********************************
+*     INSTALLATION COMPLETE     *
+*********************************
+
+*************************************************************************************************************************************
+*     You can now login to the TastyIgniter Admin at http://127.0.0.1:8080/admin with credentials provided during installation.     *
+*************************************************************************************************************************************
+[2026/08/11 15:22:13] => Install step install +OK
+[2026/08/11 15:22:13] => Execute handler (onInstall): Array
+(
+    [result] => 1
+)
+
+[2026/08/11 15:22:18] => .============================ POST REQUEST ==========================.
+[2026/08/11 15:22:18] => Postback payload: Array
+(
+    [handler] => onInstall
+    [process] => finalize
+)
+
+[2026/08/11 15:22:18] => Install step: finalize
+[2026/08/11 16:22:19] => Laravel application bootstrapped from /home/lone/MariesRestaurant 
+[2026/08/11 16:22:19] => Artisan storage:link output:
+INFO  The [public/storage] link has been connected to [storage/app/public].
+[2026/08/11 16:22:19] => Generated root .htaccess redirect to public/
+[2026/08/11 16:22:19] => Install step finalize +OK
+[2026/08/11 16:22:19] => Execute handler (onInstall): Array
+(
+    [result] => Array
+        (
+            [adminUrl] => http://127.0.0.1:8080/admin
+            [frontUrl] => http://127.0.0.1:8080/
+        )
+
+)
+

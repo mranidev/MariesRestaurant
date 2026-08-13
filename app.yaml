@@ -1,0 +1,49 @@
+# Wasmer Edge app configuration for the Maries restaurant site.
+# See https://docs.wasmer.io/edge/configuration/
+kind: wasmer.io/App.v0
+owner: elalaoui
+name: maries-restaurant
+package: .
+debug: false
+
+# Non-secret environment variables. Sensitive values (APP_KEY, etc.) are set
+# with `wasmer app secret create` so they are never stored in this file.
+env:
+  APP_NAME: Maries
+  APP_ENV: production
+  APP_DEBUG: "false"
+  APP_URL: https://maries-restaurant.wasmer.app
+  DB_CONNECTION: mysql
+  DB_PREFIX: ti_
+  # The managed MySQL enforces sql_require_primary_key=ON; TastyIgniter's
+  # schema includes tables without primary keys, so relax it per-connection.
+  DB_ALLOW_NO_PRIMARY_KEY: "true"
+  CACHE_DRIVER: file
+  QUEUE_CONNECTION: sync
+  SESSION_DRIVER: file
+  SESSION_LIFETIME: "120"
+  LOG_CHANNEL: stderr
+  BROADCAST_DRIVER: log
+  IGNITER_LOCATION_MODE: single
+
+# PHP's built-in web server is single-threaded: let Edge scale instances for
+# concurrent requests instead of multiplexing them onto one worker.
+# See https://docs.wasmer.io/edge/configuration/#scaling
+scaling:
+  mode: single_concurrency
+
+# Pin the app to a region that hosts the managed database and volumes.
+# fr-roub1 (France, Roubaix) supports both. See https://docs.wasmer.io/edge/learn/regions/
+locality:
+  regions:
+    - fr-roub1
+
+capabilities:
+  # Auto-provision a managed MySQL database. Credentials are injected as
+  # DB_HOST / DB_PORT / DB_NAME / DB_USERNAME / DB_PASSWORD.
+  database:
+    engine: mysql
+  # Speed up Laravel cold starts by pre-warming the homepage.
+  instaboot:
+    requests:
+      - path: /

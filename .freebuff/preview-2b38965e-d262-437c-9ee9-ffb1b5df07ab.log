@@ -1,0 +1,481 @@
+
+   INFO  Server running on [http://127.0.0.1:8080].  
+
+  Press Ctrl+C to stop the server
+
+  2026-08-12 11:32:24 / .......................................... ~ 500.64ms
+  2026-08-12 11:32:32 / .......................................... ~ 500.60ms
+  2026-08-12 11:38:10 / ............................................ ~ 0.08ms
+  2026-08-12 11:38:10 / ............................................ ~ 0.03ms
+  2026-08-12 11:38:10 /vendor/maries/img/logo/logo.jpeg .......... ~ 500.31ms
+  2026-08-12 11:38:10 /vendor/maries/img/events/event-birthday.jpg  ~ 500.50ms
+  2026-08-12 11:38:10 /vendor/maries/img/events/event-holiday.jpg .. ~ 0.36ms
+  2026-08-12 11:38:10 /vendor/maries/img/events/event-baby.jpg ..... ~ 0.22ms
+  2026-08-12 11:38:10 /vendor/maries/img/gallery/gallery-1.jpg ..... ~ 0.28ms
+  2026-08-12 11:38:10 /_assets/8654843b64776579823a354f288ff2a1-1786509093.css  ~ 0.26ms
+  2026-08-12 11:38:10 /_assets/ff130336be1edeab0b1e1ba044bf2dcf-1786509093.js  ~ 0.03ms
+  2026-08-12 11:38:10 /vendor/maries/img/gallery/gallery-2.jpg ..... ~ 0.13ms
+  2026-08-12 11:38:10 /vendor/maries/img/gallery/gallery-3.jpg ..... ~ 0.21ms
+  2026-08-12 11:38:10 /vendor/maries/img/gallery/gallery-4.jpg ..... ~ 0.41ms
+  2026-08-12 11:38:10 /vendor/maries/img/gallery/gallery-5.jpg ..... ~ 0.60ms
+  2026-08-12 11:38:10 /vendor/maries/img/slide/slide-1.jpg ......... ~ 0.70ms
+  2026-08-12 11:38:10 /vendor/maries/img/gallery/gallery-6.jpg ..... ~ 0.43ms
+  2026-08-12 11:38:10 /vendor/maries/img/gallery/gallery-7.jpg ..... ~ 0.55ms
+  2026-08-12 11:38:10 /vendor/maries/img/slide/slide-2.jpg ......... ~ 0.91ms
+  2026-08-12 11:38:10 /vendor/maries/img/gallery/gallery-8.jpg ..... ~ 0.73ms
+  2026-08-12 11:38:10 /vendor/maries/img/testimonials/bachir.jpg ... ~ 0.06ms
+  2026-08-12 11:38:10 /vendor/maries/img/testimonials/sywar.jpg .... ~ 0.14ms
+  2026-08-12 11:38:10 /vendor/maries/img/testimonials/rahma.jpg .... ~ 0.21ms
+  2026-08-12 11:38:10 /vendor/maries/img/testimonials/oussama.jpg .. ~ 0.25ms
+  2026-08-12 11:38:10 /vendor/maries/img/testimonials/mehdi.jpg .... ~ 0.11ms
+  2026-08-12 11:38:10 /vendor/maries/img/slide/slide-3.jpg ......... ~ 0.11ms
+  2026-08-12 11:38:10 /vendor/maries/img/events/events-bg.jpg ...... ~ 0.04ms
+  2026-08-12 11:38:10 /vendor/maries/img/testimonials/testimonials-bg.jpg  ~ 0.03ms
+  2026-08-12 11:38:10 /vendor/maries/fonts/dm-sans-400.woff2 ....... ~ 0.12ms
+  2026-08-12 11:38:10 /vendor/maries/fonts/bodoni-moda-700.woff2 ... ~ 0.30ms
+  2026-08-12 11:38:10 /vendor/maries/fonts/bodoni-moda-700-italic.woff2  ~ 0.43ms
+  2026-08-12 11:38:10 /vendor/maries/fonts/bodoni-moda-800.woff2 ... ~ 0.53ms
+  2026-08-12 11:38:10 /vendor/maries/fonts/dm-sans-700.woff2 ....... ~ 0.67ms
+  2026-08-12 11:38:10 /vendor/maries/fonts/dm-sans-500.woff2 ....... ~ 0.68ms
+  2026-08-12 11:38:12 / ............................................ ~ 0.09ms
+  2026-08-12 11:38:12 /vendor/maries/img/logo/logo.jpeg ............ ~ 0.06ms
+  2026-08-12 11:38:12 /vendor/maries/img/events/event-birthday.jpg . ~ 0.19ms
+  2026-08-12 11:38:12 /_assets/8654843b64776579823a354f288ff2a1-1786509093.css  ~ 0.03ms
+  2026-08-12 11:38:12 /_assets/ff130336be1edeab0b1e1ba044bf2dcf-1786509093.js  ~ 0.04ms
+  2026-08-12 11:38:12 /vendor/maries/img/events/event-holiday.jpg .. ~ 0.14ms
+  2026-08-12 11:38:12 /vendor/maries/img/events/event-baby.jpg ..... ~ 0.22ms
+  2026-08-12 11:38:12 /vendor/maries/img/gallery/gallery-1.jpg ..... ~ 0.30ms
+  2026-08-12 11:38:12 /vendor/maries/img/gallery/gallery-3.jpg ..... ~ 0.31ms
+  2026-08-12 11:38:12 /vendor/maries/img/gallery/gallery-2.jpg ..... ~ 0.47ms
+  2026-08-12 11:38:12 /vendor/maries/img/gallery/gallery-4.jpg ..... ~ 0.39ms
+  2026-08-12 11:38:12 /vendor/maries/img/gallery/gallery-5.jpg ..... ~ 0.29ms
+  2026-08-12 11:38:12 /vendor/maries/img/gallery/gallery-6.jpg ..... ~ 0.04ms
+  2026-08-12 11:38:12 /vendor/maries/img/gallery/gallery-7.jpg ..... ~ 0.14ms
+  2026-08-12 11:38:12 /vendor/maries/img/gallery/gallery-8.jpg ..... ~ 0.13ms
+  2026-08-12 11:38:12 /vendor/maries/img/testimonials/bachir.jpg ... ~ 0.13ms
+  2026-08-12 11:38:12 /vendor/maries/img/testimonials/sywar.jpg .... ~ 0.15ms
+  2026-08-12 11:38:12 /vendor/maries/img/testimonials/rahma.jpg .... ~ 0.05ms
+  2026-08-12 11:38:12 /vendor/maries/img/testimonials/oussama.jpg .. ~ 0.12ms
+  2026-08-12 11:38:12 /vendor/maries/img/testimonials/mehdi.jpg .... ~ 0.19ms
+  2026-08-12 11:38:12 /vendor/maries/img/slide/slide-1.jpg ......... ~ 0.04ms
+  2026-08-12 11:38:12 /vendor/maries/img/events/events-bg.jpg ...... ~ 0.15ms
+  2026-08-12 11:38:12 /vendor/maries/img/testimonials/testimonials-bg.jpg  ~ 0.25ms
+  2026-08-12 11:38:12 /vendor/maries/fonts/dm-sans-400.woff2 ....... ~ 0.62ms
+  2026-08-12 11:38:12 /vendor/maries/fonts/bodoni-moda-700.woff2 ... ~ 1.80ms
+  2026-08-12 11:38:12 /vendor/maries/fonts/dm-sans-500.woff2 ....... ~ 2.59ms
+  2026-08-12 11:38:12 /vendor/maries/fonts/bodoni-moda-800.woff2 ... ~ 3.50ms
+  2026-08-12 11:38:12 /vendor/maries/fonts/dm-sans-700.woff2 ....... ~ 4.31ms
+  2026-08-12 11:38:12 /vendor/maries/fonts/bodoni-moda-700-italic.woff2  ~ 4.84ms
+  2026-08-12 11:38:13 /favicon.ico ................................. ~ 0.17ms
+  2026-08-12 11:38:18 /vendor/maries/img/slide/slide-2.jpg ......... ~ 0.92ms
+  2026-08-12 11:38:23 /vendor/maries/img/slide/slide-3.jpg ......... ~ 0.29ms
+  2026-08-12 11:38:32 /livewire/update ............................. ~ 0.09ms
+  2026-08-12 11:41:29 /.well-known/appspecific/com.chrome.devtools.json  ~ 0.13ms
+  2026-08-12 11:43:26 /livewire/update ............................. ~ 0.30ms
+  2026-08-12 11:43:35 /livewire/update ............................. ~ 0.12ms
+  2026-08-12 11:43:36 /livewire/update ............................. ~ 0.18ms
+  2026-08-12 11:43:40 /livewire/update ............................. ~ 0.30ms
+  2026-08-12 11:43:41 /livewire/update ............................. ~ 0.08ms
+  2026-08-12 11:44:45 / ............................................ ~ 0.13ms
+  2026-08-12 11:44:45 /_assets/8654843b64776579823a354f288ff2a1-1786549480.css  ~ 501.03ms
+  2026-08-12 11:44:45 /vendor/maries/img/logo/logo.jpeg .......... ~ 502.16ms
+  2026-08-12 11:44:45 /vendor/maries/img/events/event-birthday.jpg  ~ 502.87ms
+  2026-08-12 11:44:45 /vendor/maries/img/events/event-holiday.jpg .. ~ 1.49ms
+  2026-08-12 11:44:45 /vendor/maries/img/events/event-baby.jpg ..... ~ 1.92ms
+  2026-08-12 11:44:45 /vendor/maries/img/gallery/gallery-1.jpg ..... ~ 2.42ms
+  2026-08-12 11:44:45 /_assets/ff130336be1edeab0b1e1ba044bf2dcf-1786549480.js  ~ 0.18ms
+  2026-08-12 11:44:45 /vendor/maries/img/gallery/gallery-2.jpg ..... ~ 0.31ms
+  2026-08-12 11:44:45 /vendor/maries/img/gallery/gallery-3.jpg ..... ~ 0.91ms
+  2026-08-12 11:44:45 /vendor/maries/img/gallery/gallery-4.jpg ..... ~ 1.51ms
+  2026-08-12 11:44:45 /vendor/maries/img/gallery/gallery-5.jpg ..... ~ 2.16ms
+  2026-08-12 11:44:45 /vendor/maries/img/gallery/gallery-6.jpg ..... ~ 2.92ms
+  2026-08-12 11:44:45 /vendor/maries/img/slide/slide-1.jpg ......... ~ 3.31ms
+  2026-08-12 11:44:45 /vendor/maries/img/gallery/gallery-7.jpg ..... ~ 0.18ms
+  2026-08-12 11:44:45 /vendor/maries/img/gallery/gallery-8.jpg ..... ~ 0.58ms
+  2026-08-12 11:44:45 /vendor/maries/img/testimonials/bachir.jpg ... ~ 0.94ms
+  2026-08-12 11:44:45 /vendor/maries/img/testimonials/sywar.jpg .... ~ 0.86ms
+  2026-08-12 11:44:45 /vendor/maries/img/testimonials/rahma.jpg .... ~ 0.70ms
+  2026-08-12 11:44:45 /vendor/maries/img/testimonials/oussama.jpg .. ~ 0.63ms
+  2026-08-12 11:44:45 /vendor/maries/img/testimonials/mehdi.jpg .... ~ 0.83ms
+  2026-08-12 11:44:45 /vendor/maries/img/events/events-bg.jpg ...... ~ 0.16ms
+  2026-08-12 11:44:45 /vendor/maries/img/testimonials/testimonials-bg.jpg  ~ 0.81ms
+  2026-08-12 11:44:45 /vendor/maries/fonts/dm-sans-400.woff2 ....... ~ 0.77ms
+  2026-08-12 11:44:45 /vendor/maries/fonts/bodoni-moda-700.woff2 ... ~ 1.63ms
+  2026-08-12 11:44:45 /vendor/maries/fonts/dm-sans-500.woff2 ....... ~ 1.86ms
+  2026-08-12 11:44:45 /vendor/maries/fonts/bodoni-moda-700-italic.woff2  ~ 2.37ms
+  2026-08-12 11:44:45 /vendor/maries/fonts/bodoni-moda-800.woff2 ... ~ 2.80ms
+  2026-08-12 11:44:45 /vendor/maries/fonts/dm-sans-700.woff2 ....... ~ 3.39ms
+  2026-08-12 11:44:50 /vendor/maries/img/slide/slide-2.jpg ......... ~ 0.29ms
+  2026-08-12 11:44:55 /vendor/maries/img/slide/slide-3.jpg ......... ~ 9.82ms
+  2026-08-12 11:45:22 / ............................................ ~ 0.09ms
+  2026-08-12 11:45:22 /_assets/8654843b64776579823a354f288ff2a1-1786549480.css  ~ 500.33ms
+  2026-08-12 11:45:22 /vendor/maries/img/logo/logo.jpeg .......... ~ 500.57ms
+  2026-08-12 11:45:22 /vendor/maries/img/events/event-birthday.jpg  ~ 500.85ms
+  2026-08-12 11:45:22 /vendor/maries/img/events/event-holiday.jpg .. ~ 0.50ms
+  2026-08-12 11:45:22 /vendor/maries/img/events/event-baby.jpg ..... ~ 0.62ms
+  2026-08-12 11:45:22 /vendor/maries/img/gallery/gallery-1.jpg ..... ~ 0.78ms
+  2026-08-12 11:45:22 /_assets/ff130336be1edeab0b1e1ba044bf2dcf-1786549480.js  ~ 0.03ms
+  2026-08-12 11:45:22 /vendor/maries/img/gallery/gallery-2.jpg ..... ~ 0.07ms
+  2026-08-12 11:45:22 /vendor/maries/img/gallery/gallery-3.jpg ..... ~ 0.16ms
+  2026-08-12 11:45:22 /vendor/maries/img/gallery/gallery-4.jpg ..... ~ 0.25ms
+  2026-08-12 11:45:22 /vendor/maries/img/gallery/gallery-5.jpg ..... ~ 0.34ms
+  2026-08-12 11:45:22 /vendor/maries/img/gallery/gallery-6.jpg ..... ~ 0.42ms
+  2026-08-12 11:45:22 /vendor/maries/img/gallery/gallery-7.jpg ..... ~ 0.03ms
+  2026-08-12 11:45:22 /vendor/maries/img/gallery/gallery-8.jpg ..... ~ 0.11ms
+  2026-08-12 11:45:22 /vendor/maries/img/testimonials/bachir.jpg ... ~ 0.31ms
+  2026-08-12 11:45:22 /vendor/maries/img/testimonials/sywar.jpg .... ~ 0.50ms
+  2026-08-12 11:45:22 /vendor/maries/img/testimonials/rahma.jpg .... ~ 0.71ms
+  2026-08-12 11:45:22 /vendor/maries/img/testimonials/oussama.jpg .. ~ 0.26ms
+  2026-08-12 11:45:22 /vendor/maries/img/slide/slide-1.jpg ......... ~ 0.12ms
+  2026-08-12 11:45:22 /vendor/maries/img/testimonials/mehdi.jpg .... ~ 0.38ms
+  2026-08-12 11:45:22 /vendor/maries/img/events/events-bg.jpg ...... ~ 0.58ms
+  2026-08-12 11:45:22 /vendor/maries/img/testimonials/testimonials-bg.jpg  ~ 0.81ms
+  2026-08-12 11:45:22 /vendor/maries/fonts/dm-sans-400.woff2 ....... ~ 0.13ms
+  2026-08-12 11:45:22 /vendor/maries/fonts/bodoni-moda-700.woff2 ... ~ 0.38ms
+  2026-08-12 11:45:22 /vendor/maries/fonts/dm-sans-500.woff2 ....... ~ 0.55ms
+  2026-08-12 11:45:22 /vendor/maries/fonts/bodoni-moda-800.woff2 ... ~ 0.90ms
+  2026-08-12 11:45:22 /vendor/maries/fonts/dm-sans-700.woff2 ....... ~ 0.10ms
+  2026-08-12 11:45:22 /vendor/maries/fonts/bodoni-moda-700-italic.woff2  ~ 0.35ms
+  2026-08-12 11:45:27 /vendor/maries/img/slide/slide-2.jpg ......... ~ 0.09ms
+  2026-08-12 11:45:46 /vendor/maries/img/slide/slide-3.jpg ......... ~ 0.15ms
+  2026-08-12 11:47:53 / ............................................ ~ 0.35ms
+  2026-08-12 11:47:53 /_assets/8654843b64776579823a354f288ff2a1-1786549666.css  ~ 0.13ms
+  2026-08-12 11:47:53 /vendor/maries/img/logo/logo.jpeg ............ ~ 0.32ms
+  2026-08-12 11:47:53 /vendor/maries/img/events/event-birthday.jpg . ~ 0.64ms
+  2026-08-12 11:47:53 /vendor/maries/img/events/event-holiday.jpg .. ~ 0.63ms
+  2026-08-12 11:47:53 /vendor/maries/img/events/event-baby.jpg ..... ~ 0.93ms
+  2026-08-12 11:47:53 /vendor/maries/img/gallery/gallery-1.jpg ..... ~ 1.18ms
+  2026-08-12 11:47:53 /_assets/ff130336be1edeab0b1e1ba044bf2dcf-1786549666.js  ~ 1.35ms
+  2026-08-12 11:47:54 /vendor/maries/img/gallery/gallery-2.jpg ..... ~ 0.13ms
+  2026-08-12 11:47:54 /vendor/maries/img/gallery/gallery-3.jpg ..... ~ 0.34ms
+  2026-08-12 11:47:54 /vendor/maries/img/gallery/gallery-4.jpg ..... ~ 0.56ms
+  2026-08-12 11:47:54 /vendor/maries/img/gallery/gallery-5.jpg ..... ~ 0.74ms
+  2026-08-12 11:47:54 /vendor/maries/img/gallery/gallery-6.jpg ..... ~ 0.91ms
+  2026-08-12 11:47:54 /vendor/maries/img/slide/slide-1.jpg ......... ~ 0.13ms
+  2026-08-12 11:47:54 /vendor/maries/img/gallery/gallery-7.jpg ..... ~ 0.26ms
+  2026-08-12 11:47:54 /vendor/maries/img/gallery/gallery-8.jpg ..... ~ 0.25ms
+  2026-08-12 11:47:54 /vendor/maries/img/testimonials/bachir.jpg ... ~ 0.48ms
+  2026-08-12 11:47:54 /vendor/maries/img/testimonials/sywar.jpg .... ~ 0.22ms
+  2026-08-12 11:47:54 /vendor/maries/img/testimonials/rahma.jpg .... ~ 0.22ms
+  2026-08-12 11:47:54 /vendor/maries/img/testimonials/oussama.jpg .. ~ 0.04ms
+  2026-08-12 11:47:54 /vendor/maries/img/testimonials/mehdi.jpg .... ~ 0.13ms
+  2026-08-12 11:47:54 /vendor/maries/img/events/events-bg.jpg ...... ~ 0.04ms
+  2026-08-12 11:47:54 /vendor/maries/img/testimonials/testimonials-bg.jpg  ~ 0.14ms
+  2026-08-12 11:47:54 /vendor/maries/fonts/bodoni-moda-700.woff2 ... ~ 0.11ms
+  2026-08-12 11:47:54 /vendor/maries/fonts/dm-sans-400.woff2 ....... ~ 0.13ms
+  2026-08-12 11:47:54 /vendor/maries/fonts/dm-sans-500.woff2 ....... ~ 0.14ms
+  2026-08-12 11:47:54 /vendor/maries/fonts/bodoni-moda-700-italic.woff2  ~ 0.23ms
+  2026-08-12 11:47:54 /vendor/maries/fonts/bodoni-moda-800.woff2 ... ~ 0.33ms
+  2026-08-12 11:47:54 /vendor/maries/fonts/dm-sans-700.woff2 ....... ~ 0.03ms
+  2026-08-12 11:47:59 /vendor/maries/img/slide/slide-2.jpg ......... ~ 0.20ms
+  2026-08-12 11:48:04 /vendor/maries/img/slide/slide-3.jpg ......... ~ 0.19ms
+  2026-08-12 11:48:15 /livewire/update ............................. ~ 0.18ms
+  2026-08-12 11:48:20 /livewire/update ............................. ~ 0.43ms
+  2026-08-12 11:49:08 / ............................................ ~ 0.17ms
+  2026-08-12 11:49:08 /_assets/8654843b64776579823a354f288ff2a1-1786549666.css  ~ 0.16ms
+  2026-08-12 11:49:08 /vendor/maries/img/logo/logo.jpeg ............ ~ 0.44ms
+  2026-08-12 11:49:08 /vendor/maries/img/events/event-birthday.jpg . ~ 0.90ms
+  2026-08-12 11:49:09 /vendor/maries/img/events/event-holiday.jpg .. ~ 0.86ms
+  2026-08-12 11:49:09 /vendor/maries/img/events/event-baby.jpg ..... ~ 1.05ms
+  2026-08-12 11:49:09 /vendor/maries/img/gallery/gallery-1.jpg ..... ~ 1.58ms
+  2026-08-12 11:49:09 /_assets/ff130336be1edeab0b1e1ba044bf2dcf-1786549666.js  ~ 0.20ms
+  2026-08-12 11:49:09 /vendor/maries/img/gallery/gallery-2.jpg ..... ~ 0.22ms
+  2026-08-12 11:49:09 /vendor/maries/img/gallery/gallery-3.jpg ..... ~ 0.51ms
+  2026-08-12 11:49:09 /vendor/maries/img/gallery/gallery-4.jpg ..... ~ 0.77ms
+  2026-08-12 11:49:09 /vendor/maries/img/gallery/gallery-5.jpg ..... ~ 1.02ms
+  2026-08-12 11:49:09 /vendor/maries/img/gallery/gallery-6.jpg ..... ~ 1.27ms
+  2026-08-12 11:49:09 /vendor/maries/img/gallery/gallery-7.jpg ..... ~ 0.08ms
+  2026-08-12 11:49:09 /vendor/maries/img/gallery/gallery-8.jpg ..... ~ 0.22ms
+  2026-08-12 11:49:09 /vendor/maries/img/testimonials/bachir.jpg ... ~ 0.58ms
+  2026-08-12 11:49:09 /vendor/maries/img/testimonials/sywar.jpg .... ~ 0.80ms
+  2026-08-12 11:49:09 /vendor/maries/img/testimonials/rahma.jpg .... ~ 0.98ms
+  2026-08-12 11:49:09 /vendor/maries/img/testimonials/oussama.jpg .. ~ 1.15ms
+  2026-08-12 11:49:09 /vendor/maries/img/testimonials/mehdi.jpg .... ~ 0.14ms
+  2026-08-12 11:49:09 /vendor/maries/img/slide/slide-1.jpg ......... ~ 0.34ms
+  2026-08-12 11:49:09 /vendor/maries/img/events/events-bg.jpg ...... ~ 0.61ms
+  2026-08-12 11:49:09 /vendor/maries/img/testimonials/testimonials-bg.jpg  ~ 0.86ms
+  2026-08-12 11:49:09 /vendor/maries/fonts/dm-sans-400.woff2 ....... ~ 0.22ms
+  2026-08-12 11:49:09 /vendor/maries/fonts/bodoni-moda-700.woff2 ... ~ 0.49ms
+  2026-08-12 11:49:09 /vendor/maries/fonts/dm-sans-500.woff2 ....... ~ 0.85ms
+  2026-08-12 11:49:09 /vendor/maries/fonts/bodoni-moda-800.woff2 . ~ 501.55ms
+  2026-08-12 11:49:09 /vendor/maries/fonts/dm-sans-700.woff2 ..... ~ 501.75ms
+  2026-08-12 11:49:09 /vendor/maries/fonts/bodoni-moda-700-italic.woff2  ~ 501.95ms
+  2026-08-12 11:49:13 /livewire/update ............................. ~ 0.23ms
+  2026-08-12 11:49:14 /vendor/maries/img/slide/slide-2.jpg ......... ~ 0.21ms
+  2026-08-12 11:49:15 /livewire/update ........................... ~ 500.55ms
+  2026-08-12 11:49:19 /vendor/maries/img/slide/slide-3.jpg ......... ~ 0.42ms
+  2026-08-12 11:54:11 / ............................................ ~ 0.10ms
+  2026-08-12 11:54:11 /vendor/maries/img/logo/logo.jpeg ............ ~ 0.05ms
+  2026-08-12 11:54:11 /vendor/maries/img/events/event-birthday.jpg . ~ 0.16ms
+  2026-08-12 11:54:11 /_assets/8654843b64776579823a354f288ff2a1-1786549666.css  ~ 0.03ms
+  2026-08-12 11:54:11 /_assets/ff130336be1edeab0b1e1ba044bf2dcf-1786549666.js  ~ 0.04ms
+  2026-08-12 11:54:11 /vendor/maries/img/events/event-holiday.jpg .. ~ 0.15ms
+  2026-08-12 11:54:11 /vendor/maries/img/events/event-baby.jpg ..... ~ 0.23ms
+  2026-08-12 11:54:11 /vendor/maries/img/gallery/gallery-1.jpg ..... ~ 0.32ms
+  2026-08-12 11:54:11 /vendor/maries/img/gallery/gallery-3.jpg ..... ~ 0.33ms
+  2026-08-12 11:54:11 /vendor/maries/img/gallery/gallery-2.jpg ..... ~ 0.57ms
+  2026-08-12 11:54:11 /vendor/maries/img/gallery/gallery-4.jpg ..... ~ 0.57ms
+  2026-08-12 11:54:11 /vendor/maries/img/gallery/gallery-5.jpg ..... ~ 0.09ms
+  2026-08-12 11:54:11 /vendor/maries/img/gallery/gallery-6.jpg ..... ~ 0.28ms
+  2026-08-12 11:54:11 /vendor/maries/img/gallery/gallery-7.jpg ..... ~ 0.27ms
+  2026-08-12 11:54:11 /vendor/maries/img/gallery/gallery-8.jpg ..... ~ 0.07ms
+  2026-08-12 11:54:11 /vendor/maries/img/testimonials/bachir.jpg ... ~ 0.28ms
+  2026-08-12 11:54:11 /vendor/maries/img/testimonials/sywar.jpg .... ~ 0.08ms
+  2026-08-12 11:54:11 /vendor/maries/img/testimonials/rahma.jpg .... ~ 0.30ms
+  2026-08-12 11:54:11 /vendor/maries/img/testimonials/oussama.jpg .. ~ 0.46ms
+  2026-08-12 11:54:11 /vendor/maries/img/testimonials/mehdi.jpg .... ~ 0.40ms
+  2026-08-12 11:54:11 /vendor/maries/img/slide/slide-1.jpg ......... ~ 0.24ms
+  2026-08-12 11:54:11 /vendor/maries/img/events/events-bg.jpg ...... ~ 0.48ms
+  2026-08-12 11:54:11 /vendor/maries/img/testimonials/testimonials-bg.jpg  ~ 0.06ms
+  2026-08-12 11:54:11 /vendor/maries/fonts/dm-sans-400.woff2 ....... ~ 0.24ms
+  2026-08-12 11:54:11 /vendor/maries/fonts/bodoni-moda-700.woff2 ... ~ 0.75ms
+  2026-08-12 11:54:11 /vendor/maries/fonts/dm-sans-500.woff2 ....... ~ 1.09ms
+  2026-08-12 11:54:11 /vendor/maries/fonts/bodoni-moda-800.woff2 ... ~ 1.54ms
+  2026-08-12 11:54:11 /vendor/maries/fonts/dm-sans-700.woff2 ....... ~ 1.86ms
+  2026-08-12 11:54:11 /vendor/maries/fonts/bodoni-moda-700-italic.woff2  ~ 2.30ms
+  2026-08-12 11:54:16 /vendor/maries/img/slide/slide-2.jpg ......... ~ 0.47ms
+  2026-08-12 11:54:17 /livewire/update ............................. ~ 0.13ms
+  2026-08-12 11:54:18 /livewire/update ............................. ~ 0.24ms
+  2026-08-12 11:54:21 /vendor/maries/img/slide/slide-3.jpg ......... ~ 0.35ms
+  2026-08-12 11:54:43 / ............................................ ~ 0.08ms
+  2026-08-12 11:54:43 /vendor/maries/img/logo/logo.jpeg ............ ~ 0.09ms
+  2026-08-12 11:54:43 /vendor/maries/img/events/event-birthday.jpg . ~ 0.38ms
+  2026-08-12 11:54:43 /vendor/maries/img/events/event-holiday.jpg .. ~ 0.07ms
+  2026-08-12 11:54:43 /vendor/maries/img/events/event-baby.jpg ..... ~ 0.11ms
+  2026-08-12 11:54:43 /vendor/maries/img/gallery/gallery-1.jpg ..... ~ 0.37ms
+  2026-08-12 11:54:43 /vendor/maries/img/gallery/gallery-2.jpg ..... ~ 0.45ms
+  2026-08-12 11:54:43 /vendor/maries/img/gallery/gallery-3.jpg ..... ~ 0.55ms
+  2026-08-12 11:54:43 /vendor/maries/img/gallery/gallery-4.jpg ..... ~ 0.07ms
+  2026-08-12 11:54:43 /vendor/maries/img/gallery/gallery-5.jpg ..... ~ 0.24ms
+  2026-08-12 11:54:43 /vendor/maries/img/gallery/gallery-6.jpg ..... ~ 0.27ms
+  2026-08-12 11:54:43 /vendor/maries/img/gallery/gallery-7.jpg ..... ~ 0.08ms
+  2026-08-12 11:54:43 /vendor/maries/img/gallery/gallery-8.jpg ..... ~ 0.27ms
+  2026-08-12 11:54:43 /vendor/maries/img/testimonials/bachir.jpg ... ~ 0.49ms
+  2026-08-12 11:54:43 /vendor/maries/img/testimonials/sywar.jpg .... ~ 0.11ms
+  2026-08-12 11:54:43 /vendor/maries/img/testimonials/rahma.jpg .... ~ 0.45ms
+  2026-08-12 11:54:43 /vendor/maries/img/testimonials/oussama.jpg .. ~ 0.64ms
+  2026-08-12 11:54:43 /vendor/maries/img/testimonials/mehdi.jpg .... ~ 0.50ms
+  2026-08-12 11:54:43 /vendor/maries/img/slide/slide-1.jpg ......... ~ 0.06ms
+  2026-08-12 11:54:43 /vendor/maries/img/events/events-bg.jpg ...... ~ 0.07ms
+  2026-08-12 11:54:43 /vendor/maries/img/testimonials/testimonials-bg.jpg  ~ 0.07ms
+  2026-08-12 11:54:43 /vendor/maries/fonts/dm-sans-400.woff2 ....... ~ 0.06ms
+  2026-08-12 11:54:43 /vendor/maries/fonts/dm-sans-700.woff2 ....... ~ 0.15ms
+  2026-08-12 11:54:43 /vendor/maries/fonts/bodoni-moda-700.woff2 ... ~ 0.38ms
+  2026-08-12 11:54:43 /vendor/maries/fonts/bodoni-moda-800.woff2 ... ~ 0.55ms
+  2026-08-12 11:54:43 /vendor/maries/fonts/dm-sans-500.woff2 ....... ~ 0.75ms
+  2026-08-12 11:54:43 /vendor/maries/fonts/bodoni-moda-700-italic.woff2  ~ 0.95ms
+  2026-08-12 12:01:45 / ............................................ ~ 0.13ms
+  2026-08-12 12:01:45 /_assets/8654843b64776579823a354f288ff2a1-1786549666.css  ~ 0.06ms
+  2026-08-12 12:01:45 /vendor/maries/img/logo/logo.jpeg ............ ~ 0.24ms
+  2026-08-12 12:01:45 /vendor/maries/img/events/event-birthday.jpg . ~ 0.45ms
+  2026-08-12 12:01:45 /_assets/ff130336be1edeab0b1e1ba044bf2dcf-1786549666.js  ~ 0.04ms
+  2026-08-12 12:01:45 /vendor/maries/img/events/event-holiday.jpg .. ~ 0.50ms
+  2026-08-12 12:01:45 /vendor/maries/img/events/event-baby.jpg ..... ~ 0.40ms
+  2026-08-12 12:01:45 /vendor/maries/img/gallery/gallery-1.jpg ..... ~ 0.52ms
+  2026-08-12 12:01:45 /vendor/maries/img/gallery/gallery-2.jpg ..... ~ 0.41ms
+  2026-08-12 12:01:45 /vendor/maries/img/gallery/gallery-3.jpg ..... ~ 0.42ms
+  2026-08-12 12:01:45 /vendor/maries/img/gallery/gallery-4.jpg ..... ~ 0.09ms
+  2026-08-12 12:01:45 /vendor/maries/img/gallery/gallery-5.jpg ..... ~ 0.25ms
+  2026-08-12 12:01:45 /vendor/maries/img/gallery/gallery-6.jpg ..... ~ 0.40ms
+  2026-08-12 12:01:45 /vendor/maries/img/gallery/gallery-7.jpg ..... ~ 0.06ms
+  2026-08-12 12:01:45 /vendor/maries/img/gallery/gallery-8.jpg ..... ~ 0.23ms
+  2026-08-12 12:01:45 /vendor/maries/img/slide/slide-1.jpg ......... ~ 0.23ms
+  2026-08-12 12:01:45 /vendor/maries/img/testimonials/bachir.jpg ... ~ 0.27ms
+  2026-08-12 12:01:45 /vendor/maries/fonts/dm-sans-400.woff2 ....... ~ 0.07ms
+  2026-08-12 12:01:45 /vendor/maries/fonts/bodoni-moda-700.woff2 ... ~ 0.21ms
+  2026-08-12 12:01:45 /vendor/maries/fonts/dm-sans-500.woff2 ....... ~ 0.32ms
+  2026-08-12 12:01:45 /vendor/maries/fonts/bodoni-moda-800.woff2 ... ~ 0.05ms
+  2026-08-12 12:01:45 /vendor/maries/fonts/dm-sans-700.woff2 ....... ~ 0.18ms
+  2026-08-12 12:01:45 /vendor/maries/fonts/bodoni-moda-700-italic.woff2  ~ 0.21ms
+  2026-08-12 12:01:45 /vendor/maries/img/testimonials/sywar.jpg .... ~ 0.16ms
+  2026-08-12 12:01:45 /vendor/maries/img/testimonials/rahma.jpg .... ~ 0.19ms
+  2026-08-12 12:01:45 /vendor/maries/img/testimonials/oussama.jpg .. ~ 0.19ms
+  2026-08-12 12:01:45 /vendor/maries/img/testimonials/mehdi.jpg .... ~ 0.18ms
+  2026-08-12 12:01:45 /vendor/maries/img/events/events-bg.jpg ...... ~ 0.18ms
+  2026-08-12 12:01:45 /vendor/maries/img/testimonials/testimonials-bg.jpg  ~ 0.31ms
+  2026-08-12 12:01:47 /vendor/maries/img/slide/slide-2.jpg ......... ~ 0.20ms
+  2026-08-12 12:01:47 /vendor/maries/img/slide/slide-3.jpg ......... ~ 0.16ms
+  2026-08-12 12:13:04 / ............................................ ~ 0.62ms
+  2026-08-12 12:13:05 /vendor/maries/img/logo/logo.jpeg ............ ~ 0.11ms
+  2026-08-12 12:13:05 /vendor/maries/img/events/event-birthday.jpg . ~ 0.23ms
+  2026-08-12 12:13:05 /_assets/8654843b64776579823a354f288ff2a1-1786549666.css  ~ 0.27ms
+  2026-08-12 12:13:05 /_assets/ff130336be1edeab0b1e1ba044bf2dcf-1786549666.js  ~ 0.04ms
+  2026-08-12 12:13:05 /vendor/maries/img/events/event-holiday.jpg .. ~ 0.14ms
+  2026-08-12 12:13:05 /vendor/maries/img/events/event-baby.jpg ..... ~ 0.22ms
+  2026-08-12 12:13:05 /vendor/maries/img/gallery/gallery-1.jpg ..... ~ 0.40ms
+  2026-08-12 12:13:05 /vendor/maries/img/gallery/gallery-3.jpg ..... ~ 0.52ms
+  2026-08-12 12:13:05 /vendor/maries/img/gallery/gallery-2.jpg ..... ~ 0.75ms
+  2026-08-12 12:13:05 /vendor/maries/img/gallery/gallery-4.jpg ..... ~ 0.68ms
+  2026-08-12 12:13:05 /vendor/maries/img/gallery/gallery-5.jpg ..... ~ 0.49ms
+  2026-08-12 12:13:05 /vendor/maries/img/gallery/gallery-6.jpg ..... ~ 0.10ms
+  2026-08-12 12:13:05 /vendor/maries/img/gallery/gallery-7.jpg ..... ~ 0.30ms
+  2026-08-12 12:13:05 /vendor/maries/img/gallery/gallery-8.jpg ..... ~ 0.46ms
+  2026-08-12 12:13:05 /vendor/maries/img/testimonials/bachir.jpg ... ~ 0.57ms
+  2026-08-12 12:13:05 /vendor/maries/img/testimonials/sywar.jpg .... ~ 0.12ms
+  2026-08-12 12:13:05 /vendor/maries/img/testimonials/rahma.jpg .... ~ 0.18ms
+  2026-08-12 12:13:05 /vendor/maries/img/testimonials/oussama.jpg .. ~ 0.34ms
+  2026-08-12 12:13:05 /vendor/maries/img/testimonials/mehdi.jpg .... ~ 0.43ms
+  2026-08-12 12:13:05 /vendor/maries/img/slide/slide-1.jpg ......... ~ 0.30ms
+  2026-08-12 12:13:05 /vendor/maries/img/events/events-bg.jpg ...... ~ 0.39ms
+  2026-08-12 12:13:05 /vendor/maries/img/testimonials/testimonials-bg.jpg  ~ 0.47ms
+  2026-08-12 12:13:05 /vendor/maries/fonts/dm-sans-400.woff2 ....... ~ 0.07ms
+  2026-08-12 12:13:05 /vendor/maries/fonts/bodoni-moda-700.woff2 ... ~ 0.16ms
+  2026-08-12 12:13:05 /vendor/maries/fonts/dm-sans-500.woff2 ....... ~ 0.23ms
+  2026-08-12 12:13:05 /vendor/maries/fonts/bodoni-moda-800.woff2 ... ~ 0.31ms
+  2026-08-12 12:13:05 /vendor/maries/fonts/dm-sans-700.woff2 ....... ~ 0.39ms
+  2026-08-12 12:13:05 /vendor/maries/fonts/bodoni-moda-700-italic.woff2  ~ 0.47ms
+  2026-08-12 12:13:10 /vendor/maries/img/slide/slide-2.jpg ......... ~ 0.09ms
+  2026-08-12 12:13:15 /vendor/maries/img/slide/slide-3.jpg ......... ~ 0.24ms
+  2026-08-12 12:13:30 /livewire/update ............................. ~ 0.19ms
+  2026-08-12 12:13:31 /livewire/update ............................. ~ 0.17ms
+  2026-08-12 12:13:32 /livewire/update ............................. ~ 0.24ms
+  2026-08-12 12:13:33 /livewire/update ........................... ~ 500.69ms
+  2026-08-12 12:13:37 /livewire/update ............................. ~ 0.40ms
+  2026-08-12 12:13:40 /livewire/update ............................. ~ 0.34ms
+  2026-08-12 12:13:48 /livewire/update ........................... ~ 500.87ms
+  2026-08-12 12:13:56 /livewire/update ............................. ~ 0.19ms
+  2026-08-12 12:14:02 /admin ..................................... ~ 500.46ms
+  2026-08-12 12:14:02 /admin/login ................................. ~ 0.08ms
+  2026-08-12 12:14:02 /admin/_assets/5407e504682e2c985af457e3d91874a5-1786461706.css  ~ 0.06ms
+  2026-08-12 12:14:02 /admin/_assets/4c7b5cdc170b80b33d9314dada7deab2-1786461706.js  ~ 0.07ms
+  2026-08-12 12:14:02 /vendor/igniter/fonts/FontAwesome/fa-solid-900.woff2  ~ 0.06ms
+  2026-08-12 12:14:03 ................................................. ~ 26s
+  2026-08-12 12:51:13 / ............................................ ~ 0.54ms
+  2026-08-12 12:51:13 /vendor/maries/img/logo/logo.jpeg ............ ~ 0.11ms
+  2026-08-12 12:51:13 /vendor/maries/img/events/event-birthday.jpg . ~ 0.45ms
+  2026-08-12 12:51:13 /_assets/8654843b64776579823a354f288ff2a1-1786549666.css  ~ 0.07ms
+  2026-08-12 12:51:13 /_assets/ff130336be1edeab0b1e1ba044bf2dcf-1786549666.js  ~ 0.09ms
+  2026-08-12 12:51:13 /vendor/maries/img/events/event-holiday.jpg .. ~ 0.32ms
+  2026-08-12 12:51:13 /vendor/maries/img/events/event-baby.jpg ..... ~ 0.51ms
+  2026-08-12 12:51:13 /vendor/maries/img/gallery/gallery-1.jpg ..... ~ 0.96ms
+  2026-08-12 12:51:13 /vendor/maries/img/gallery/gallery-3.jpg ..... ~ 1.02ms
+  2026-08-12 12:51:13 /vendor/maries/img/gallery/gallery-2.jpg ..... ~ 1.45ms
+  2026-08-12 12:51:13 /vendor/maries/img/gallery/gallery-4.jpg ..... ~ 1.29ms
+  2026-08-12 12:51:13 /vendor/maries/img/gallery/gallery-5.jpg ..... ~ 0.81ms
+  2026-08-12 12:51:13 /vendor/maries/img/gallery/gallery-6.jpg ..... ~ 0.36ms
+  2026-08-12 12:51:13 /vendor/maries/img/gallery/gallery-7.jpg ..... ~ 0.39ms
+  2026-08-12 12:51:13 /vendor/maries/img/gallery/gallery-8.jpg ..... ~ 0.62ms
+  2026-08-12 12:51:13 /vendor/maries/img/testimonials/bachir.jpg ... ~ 0.65ms
+  2026-08-12 12:51:13 /vendor/maries/img/testimonials/sywar.jpg .. ~ 500.78ms
+  2026-08-12 12:51:13 /vendor/maries/img/testimonials/rahma.jpg .... ~ 0.14ms
+  2026-08-12 12:51:13 /vendor/maries/img/testimonials/oussama.jpg .. ~ 0.58ms
+  2026-08-12 12:51:13 /vendor/maries/img/testimonials/mehdi.jpg .... ~ 0.85ms
+  2026-08-12 12:51:13 /vendor/maries/img/slide/slide-1.jpg ......... ~ 0.72ms
+  2026-08-12 12:51:13 /vendor/maries/img/events/events-bg.jpg ...... ~ 1.28ms
+  2026-08-12 12:51:13 /vendor/maries/img/testimonials/testimonials-bg.jpg  ~ 0.54ms
+  2026-08-12 12:51:13 /vendor/maries/fonts/dm-sans-400.woff2 ....... ~ 0.19ms
+  2026-08-12 12:51:13 /vendor/maries/fonts/bodoni-moda-700.woff2 ... ~ 0.58ms
+  2026-08-12 12:51:13 /vendor/maries/fonts/dm-sans-500.woff2 ...... ~ 10.76ms
+  2026-08-12 12:51:13 /vendor/maries/fonts/bodoni-moda-800.woff2 .. ~ 11.25ms
+  2026-08-12 12:51:13 /vendor/maries/fonts/dm-sans-700.woff2 ...... ~ 11.73ms
+  2026-08-12 12:51:13 /vendor/maries/fonts/bodoni-moda-700-italic.woff2  ~ 12.22ms
+  2026-08-12 12:51:19 /vendor/maries/img/slide/slide-2.jpg ......... ~ 9.84ms
+  2026-08-12 12:51:24 /vendor/maries/img/slide/slide-3.jpg ......... ~ 0.18ms
+  2026-08-12 12:58:36 / ........................................... ~ 10.03ms
+  2026-08-12 12:58:48 / ............................................ ~ 0.07ms
+  2026-08-12 13:43:09 /livewire/livewire.min.js .................... ~ 0.83ms
+  2026-08-12 13:43:09 /livewire/update ............................. ~ 0.04ms
+  2026-08-12 13:43:09 /livewire/update ............................. ~ 0.04ms
+  2026-08-12 13:46:21 /admin/login ................................. ~ 1.27ms
+  2026-08-12 13:46:21 /vendor/igniter/fonts/FontAwesome/fa-solid-900.woff2  ~ 0.16ms
+  2026-08-12 13:50:40 / ............................................ ~ 0.48ms
+  2026-08-12 13:50:40 /livewire/update ............................. ~ 0.04ms
+  2026-08-12 13:50:58 / ............................................ ~ 0.12ms
+  2026-08-12 13:50:58 /vendor/maries/img/logo/logo.jpeg ............ ~ 0.56ms
+  2026-08-12 13:50:58 /vendor/maries/img/events/event-birthday.jpg . ~ 0.78ms
+  2026-08-12 13:50:58 /_assets/8654843b64776579823a354f288ff2a1-1786549666.css  ~ 0.97ms
+  2026-08-12 13:50:59 /vendor/maries/img/events/event-holiday.jpg .. ~ 0.14ms
+  2026-08-12 13:50:59 /vendor/maries/img/events/event-baby.jpg ..... ~ 0.05ms
+  2026-08-12 13:50:59 /vendor/maries/img/gallery/gallery-1.jpg ..... ~ 0.04ms
+  2026-08-12 13:50:59 /vendor/maries/img/gallery/gallery-2.jpg ..... ~ 0.10ms
+  2026-08-12 13:50:59 /vendor/maries/img/gallery/gallery-3.jpg ..... ~ 0.30ms
+  2026-08-12 13:50:59 /vendor/maries/img/gallery/gallery-4.jpg ..... ~ 0.44ms
+  2026-08-12 13:50:59 /_assets/ff130336be1edeab0b1e1ba044bf2dcf-1786549666.js  ~ 0.62ms
+  2026-08-12 13:50:59 /vendor/maries/img/gallery/gallery-6.jpg ..... ~ 0.89ms
+  2026-08-12 13:50:59 /vendor/maries/img/gallery/gallery-5.jpg ..... ~ 1.08ms
+  2026-08-12 13:50:59 /vendor/maries/img/gallery/gallery-7.jpg ..... ~ 0.43ms
+  2026-08-12 13:50:59 /vendor/maries/img/gallery/gallery-8.jpg ..... ~ 0.42ms
+  2026-08-12 13:50:59 /vendor/maries/img/testimonials/bachir.jpg ... ~ 0.38ms
+  2026-08-12 13:50:59 /vendor/maries/img/testimonials/sywar.jpg .... ~ 0.46ms
+  2026-08-12 13:50:59 /vendor/maries/fonts/bodoni-moda-800.woff2 ... ~ 0.63ms
+  2026-08-12 13:50:59 /vendor/maries/fonts/dm-sans-700.woff2 ....... ~ 0.21ms
+  2026-08-12 13:50:59 /vendor/maries/fonts/dm-sans-400.woff2 ....... ~ 0.83ms
+  2026-08-12 13:50:59 /vendor/maries/fonts/bodoni-moda-700.woff2 ... ~ 0.60ms
+  2026-08-12 13:50:59 /vendor/maries/fonts/dm-sans-500.woff2 ....... ~ 0.58ms
+  2026-08-12 13:50:59 /vendor/maries/img/slide/slide-1.jpg ......... ~ 0.30ms
+  2026-08-12 13:50:59 /vendor/maries/img/testimonials/rahma.jpg .... ~ 0.47ms
+  2026-08-12 13:50:59 /vendor/maries/img/testimonials/oussama.jpg .. ~ 0.46ms
+  2026-08-12 13:50:59 /vendor/maries/img/testimonials/mehdi.jpg .... ~ 0.53ms
+  2026-08-12 13:50:59 /vendor/maries/img/events/events-bg.jpg ...... ~ 0.03ms
+  2026-08-12 13:50:59 /vendor/maries/img/testimonials/testimonials-bg.jpg  ~ 0.04ms
+  2026-08-12 13:50:59 /vendor/maries/fonts/bodoni-moda-700-italic.woff2  ~ 0.03ms
+  2026-08-12 13:51:04 /vendor/maries/img/slide/slide-2.jpg ......... ~ 0.12ms
+  2026-08-12 13:51:09 /vendor/maries/img/slide/slide-3.jpg ......... ~ 0.09ms
+  2026-08-12 13:51:13 /livewire/update ............................. ~ 0.36ms
+  2026-08-12 13:52:59 / ............................................ ~ 0.88ms
+  2026-08-12 13:52:59 /livewire/update ............................. ~ 0.04ms
+  2026-08-12 13:52:59 /livewire/update ............................. ~ 0.03ms
+  2026-08-12 13:52:59 /livewire/update ............................. ~ 0.03ms
+  2026-08-12 13:53:13 / ............................................ ~ 0.57ms
+  2026-08-12 13:53:13 /livewire/update ........................... ~ 500.94ms
+  2026-08-12 13:53:13 /livewire/update ............................. ~ 0.17ms
+  2026-08-12 13:53:13 /livewire/update ............................. ~ 0.19ms
+
+   INFO  Environment modified. Restarting server...  
+
+   INFO  Server running on [http://127.0.0.1:8080].  
+
+  Press Ctrl+C to stop the server
+
+  2026-08-12 13:54:10 .................................................. ~ 1s
+  2026-08-12 13:54:11 ............................................ ~ 501.44ms
+  2026-08-12 13:54:11 .............................................. ~ 0.10ms
+  2026-08-12 13:54:11 .............................................. ~ 0.10ms
+  2026-08-12 13:54:21 .............................................. ~ 0.33ms
+  2026-08-12 13:54:21 .............................................. ~ 0.12ms
+  2026-08-12 13:54:21 .............................................. ~ 0.06ms
+  2026-08-12 13:54:21 .............................................. ~ 0.05ms
+
+   INFO  Environment modified. Restarting server...  
+
+   INFO  Server running on [http://127.0.0.1:8080].  
+
+  Press Ctrl+C to stop the server
+
+  2026-08-12 13:54:31 .................................................. ~ 1s
+  2026-08-12 13:54:32 .............................................. ~ 0.04ms
+  2026-08-12 13:54:32 .............................................. ~ 0.03ms
+  2026-08-12 13:54:32 .............................................. ~ 0.05ms
+  2026-08-12 13:54:59 .............................................. ~ 0.08ms
+  2026-08-12 14:50:13 .............................................. ~ 1.12ms
+  2026-08-12 15:16:13 ............................................ ~ 500.83ms
+  2026-08-12 15:16:13 .............................................. ~ 0.04ms
+  2026-08-12 15:16:13 /vendor/maries/img/logo/logo.jpeg ............ ~ 0.45ms
+  2026-08-12 15:16:13 /vendor/maries/img/events/event-birthday.jpg . ~ 0.61ms
+  2026-08-12 15:16:14 .............................................. ~ 0.04ms
+  2026-08-12 15:16:14 /vendor/maries/img/events/event-holiday.jpg .. ~ 0.65ms
+  2026-08-12 15:16:14 .............................................. ~ 0.50ms
+  2026-08-12 15:16:14 /vendor/maries/img/events/event-baby.jpg ..... ~ 1.06ms
+  2026-08-12 15:16:14 /vendor/maries/img/gallery/gallery-1.jpg ..... ~ 1.14ms
+  2026-08-12 15:16:14 /vendor/maries/img/gallery/gallery-2.jpg ..... ~ 0.83ms
+  2026-08-12 15:16:14 /vendor/maries/img/gallery/gallery-3.jpg ..... ~ 0.36ms
+  2026-08-12 15:16:14 /vendor/maries/img/gallery/gallery-4.jpg ..... ~ 0.37ms
+  2026-08-12 15:16:14 /vendor/maries/img/gallery/gallery-5.jpg ..... ~ 0.49ms
+  2026-08-12 15:16:14 /vendor/maries/img/gallery/gallery-6.jpg ..... ~ 0.60ms
+  2026-08-12 15:16:14 /vendor/maries/fonts/dm-sans-400.woff2 ....... ~ 0.07ms
+  2026-08-12 15:16:14 /vendor/maries/fonts/bodoni-moda-700.woff2 ... ~ 0.33ms
+  2026-08-12 15:16:14 /vendor/maries/fonts/dm-sans-500.woff2 ....... ~ 0.25ms
+  2026-08-12 15:16:14 /vendor/maries/fonts/bodoni-moda-800.woff2 ... ~ 0.42ms
+  2026-08-12 15:16:14 /vendor/maries/fonts/dm-sans-700.woff2 ....... ~ 0.07ms
+  2026-08-12 15:16:14 /vendor/maries/fonts/bodoni-moda-700-italic.woff2  ~ 0.32ms
+  2026-08-12 15:16:14 /vendor/maries/img/slide/slide-1.jpg ......... ~ 0.20ms
+  2026-08-12 15:16:14 /vendor/maries/img/gallery/gallery-8.jpg ..... ~ 0.13ms
+  2026-08-12 15:16:14 /vendor/maries/img/gallery/gallery-7.jpg ..... ~ 0.56ms
+  2026-08-12 15:16:14 /vendor/maries/img/testimonials/bachir.jpg ... ~ 0.35ms
+  2026-08-12 15:16:14 /vendor/maries/img/testimonials/sywar.jpg .... ~ 0.41ms
+  2026-08-12 15:16:14 /vendor/maries/img/testimonials/rahma.jpg .... ~ 0.21ms
+  2026-08-12 15:16:14 /vendor/maries/img/testimonials/oussama.jpg .. ~ 0.30ms
+  2026-08-12 15:16:14 /vendor/maries/img/testimonials/mehdi.jpg .... ~ 0.13ms
+  2026-08-12 15:16:14 /vendor/maries/img/events/events-bg.jpg ...... ~ 0.13ms
+  2026-08-12 15:16:14 /vendor/maries/img/testimonials/testimonials-bg.jpg  ~ 0.22ms
+  2026-08-12 15:20:54 ............................................ ~ 502.74ms
