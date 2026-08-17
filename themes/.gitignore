@@ -1,4 +1,5 @@
 *
 !demo/
 !maries/
+!maries/**
 !.gitignore
