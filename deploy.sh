@@ -91,3 +91,4 @@ cd "$STAGE"
 wasmer deploy --non-interactive --publish-package ${BUMP}
 
 echo "==> Done. Live at https://maries-restaurant.wasmer.app"
+# Connected to Wasmer Edge via GitHub (auto-deploy on push to main)
