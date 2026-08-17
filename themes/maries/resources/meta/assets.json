@@ -1,0 +1,43 @@
+{
+    "doctype": "html5",
+    "favicon": "$/maries/img/favicon.ico",
+    "meta": [
+        {
+            "name": "Content-type",
+            "content": "text/html; charset=utf-8",
+            "type": "equiv"
+        },
+        {
+            "name": "X-UA-Compatible",
+            "content": "IE=edge",
+            "type": "equiv"
+        },
+        {
+            "name": "viewport",
+            "content": "width=device-width, initial-scale=1",
+            "type": "name"
+        },
+        {
+            "name": "description",
+            "content": "Maries is an Italian restaurant in Tunis, les Berges du Lac I. Pasta with Parmigiano, Risotto, Salads and Raclette.",
+            "type": "name"
+        },
+        {
+            "name": "keywords",
+            "content": "maries, italian restaurant, tunis, pasta, risotto, raclette",
+            "type": "name"
+        }
+    ],
+    "css": [
+        {
+            "path": "$/maries/css/style.css",
+            "name": "maries-style"
+        }
+    ],
+    "js": [
+        {
+            "path": "$/maries/js/main.js",
+            "name": "maries-main-js"
+        }
+    ]
+}

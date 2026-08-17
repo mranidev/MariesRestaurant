@@ -32,12 +32,25 @@ echo "==> Copying project to staging (excluding secrets and runtime junk)"
 # --include rules below. Without this, storage/framework/views and
 # storage/framework/sessions silently vanish from the deployed package and the
 # app 500s with "Please provide a valid cache path".
+# The webc upload is fast (~15s), and Wasmer's content-addressed storage skips
+# re-uploading unchanged packages on re-deploys. (If the uplink degrades, the
+# package is trimmed below — dev-only vendor packages are pruned with a proper
+# `composer install --no-dev`, which REGENERATES the autoloader, so no dangling
+# autoload refs. Earlier bare rsync-excludes of vendor/ dirs broke the app
+# precisely because the autoloader still referenced the removed files.)
 rsync -a \
   --exclude '.freebuff/' \
   --exclude '.env' \
   --exclude '.env.testing' \
   --exclude 'node_modules/' \
   --exclude 'deliverable-mobile-*' \
+  --exclude 'client-submission-*' \
+  --exclude 'screenshot-*' \
+  --exclude '/Features/' \
+  --exclude '58hpi8*.webp' \
+  --exclude 'tastyigniter-redesign.png' \
+  --exclude 'tastyigniter-setup-*.zip' \
+  --exclude 'mobile-square-check.html' \
   --exclude '.git/' \
   --exclude 'storage/logs/*.log' \
   --exclude 'storage/framework/cache/data/*' \
@@ -54,6 +67,19 @@ rsync -a \
 # package, regardless of what rsync or the source tree contain.
 mkdir -p "$STAGE/storage/framework/views" "$STAGE/storage/framework/sessions" "$STAGE/storage/logs"
 touch "$STAGE/storage/framework/views/.gitkeep" "$STAGE/storage/framework/sessions/.gitkeep"
+
+echo "==> Pruning dev-only vendor packages (composer install --no-dev)"
+# Requires the machine to have composer (it does). Uses the lockfile + local
+# vendor/ so it only REMOVES dev packages and regenerates the autoloader — no
+# new downloads unless a package is missing. Keeps the webc upload well under
+# the presigned-URL window even on a slow uplink.
+# NOTE: artisan package:discover (a post-autoload-dump hook) needs a bootable
+# app, so the .env is copied in for the composer step and removed right after.
+cp "$ROOT/.env" "$STAGE/.env"
+cd "$STAGE"
+composer install --no-dev --no-interaction --no-progress --prefer-dist 2>&1 | tail -3
+rm "$STAGE/.env"
+cd "$ROOT"
 
 # Sanity checks
 test ! -f "$STAGE/.env" || { echo "ERROR: .env must not be packaged"; exit 1; }

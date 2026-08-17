@@ -6,9 +6,9 @@
 phpunit.dusk.xml
 auth.json
 
-# Ignore all vendor files included by composer and the lock file
-/vendor
-composer.lock
+# Vendor is committed so Wasmer's Git deploy (no build step) ships a
+# self-contained app — `wasmer deploy` uses the local copy as-is.
+# composer.lock committed for reproducible installs.
 node_modules
 
 /public/vendor
@@ -16,3 +16,15 @@ node_modules
 
 /storage/clockwork
 /_ide_helper.php
+
+# Local Freebuff runtime data (MariaDB, logs) — never commit
+.freebuff/
+storage/logs/*.log
+# Client deliverables / local scratch — never ship in the deployed package
+client-submission-*
+deliverable-mobile-*
+Features/
+screenshot-*
+tastyigniter-redesign.png
+mobile-square-check.html
+58hpi8*.webp
