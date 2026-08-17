@@ -92,3 +92,4 @@ wasmer deploy --non-interactive --publish-package ${BUMP}
 
 echo "==> Done. Live at https://maries-restaurant.wasmer.app"
 # Connected to Wasmer Edge via GitHub (auto-deploy on push to main)
+# Auto-deploy test — commit timestamp 2026-08-17T12:46:11Z
