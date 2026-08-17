@@ -23,7 +23,7 @@ storage/logs/*.log
 # Client deliverables / local scratch — never ship in the deployed package
 client-submission-*
 deliverable-mobile-*
-Features/
+/Features/
 screenshot-*
 tastyigniter-redesign.png
 mobile-square-check.html
